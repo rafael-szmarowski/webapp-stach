@@ -1,0 +1,2521 @@
+[{
+  "_id": {
+    "$oid": "603f462f3611e4577ba59c2f"
+  },
+  "chosenOffer": "COUPE HOMME",
+  "chosenPrice": 18,
+  "chosenEmployee": "Fred",
+  "startDate": {
+    "$date": "2021-02-04T09:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-02-04T10:30:00Z"
+  },
+  "chosenPayment": "online",
+  "appointmentStatus": "validated",
+  "__v": 0,
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": true
+},{
+  "_id": {
+    "$oid": "603f46b83611e4577ba59c30"
+  },
+  "chosenOffer": "COUPE FEMME",
+  "chosenPrice": 25,
+  "chosenEmployee": "Dany",
+  "startDate": {
+    "$date": "2021-03-04T10:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-04T10:45:00Z"
+  },
+  "chosenPayment": "online",
+  "appointmentStatus": "validated",
+  "__v": 0,
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false
+},{
+  "_id": {
+    "$oid": "603f47463611e4577ba59c31"
+  },
+  "chosenOffer": "COUPE HOMME + BARBE",
+  "chosenPrice": 30,
+  "chosenEmployee": "Dany",
+  "startDate": {
+    "$date": "2021-06-04T12:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-06-04T12:45:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "__v": 0,
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false
+},{
+  "_id": {
+    "$oid": "603f47bf3611e4577ba59c32"
+  },
+  "chosenOffer": "COUPE HOMME",
+  "chosenPrice": 30,
+  "chosenEmployee": "Bassem",
+  "startDate": {
+    "$date": "2021-03-04T13:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-04T13:45:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "__v": 0,
+  "shopId": {
+    "$oid": "603e4a9868338b411fcb5139"
+  },
+  "commentExists": true
+},{
+  "_id": {
+    "$oid": "603f61fe67afbb67e80642e2"
+  },
+  "chosenOffer": "COUPE FEMME AFRO",
+  "chosenPrice": 45,
+  "chosenEmployee": "Rafael",
+  "startDate": {
+    "$date": "2021-03-06T13:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-06T13:45:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "__v": 0,
+  "shopId": {
+    "$oid": "603e507954a08941e70f0a48"
+  },
+  "commentExists": true
+},{
+  "_id": {
+    "$oid": "603f7dba67afbb67e80642e3"
+  },
+  "chosenOffer": "COUPE FEMME AFRO",
+  "chosenPrice": 45,
+  "chosenEmployee": "Rafael",
+  "startDate": {
+    "$date": "2021-04-05T15:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-04-05T15:45:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "__v": 0,
+  "shopId": {
+    "$oid": "603e507954a08941e70f0a48"
+  },
+  "commentExists": true
+},{
+  "_id": {
+    "$oid": "604258a585289e806f752940"
+  },
+  "chosenOffer": "COUPE FEMME PERMANENTE",
+  "chosenPrice": 75,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-04-05T10:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-04-05T10:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e507954a08941e70f0a48"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604263dd72ae39824566b74a"
+  },
+  "chosenOffer": "COUPE FEMME COLORATION",
+  "chosenPrice": 60,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-09T13:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-09T13:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e507954a08941e70f0a48"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60434e29789ec3897a17add1"
+  },
+  "chosenOffer": "COUPE FEMME",
+  "chosenPrice": 70,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-04-08T08:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-04-08T08:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4da20c2ea9418ce67b25"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6045fcf31272940dcc9b052e"
+  },
+  "chosenOffer": "COUPE FEMME AFRO",
+  "chosenPrice": 45,
+  "chosenEmployee": "Rafael",
+  "startDate": {
+    "$date": "2021-07-16T10:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-07-16T10:45:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e507954a08941e70f0a48"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60460296ee3671986bba084c"
+  },
+  "chosenOffer": "PLAY HARD CUT HARD",
+  "chosenPrice": 70,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-04-08T12:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-04-08T12:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4da20c2ea9418ce67b25"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604602a71272940dcc9b0530"
+  },
+  "chosenOffer": "COUPE FEMME AFRO",
+  "chosenPrice": 45,
+  "chosenEmployee": "Rafael",
+  "startDate": {
+    "$date": "2021-07-14T10:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-07-14T10:45:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e507954a08941e70f0a48"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6046103f8065441d356cc2e5"
+  },
+  "chosenOffer": "COUPE FEMME AFRO",
+  "chosenPrice": 45,
+  "chosenEmployee": "Rafael",
+  "startDate": {
+    "$date": "2021-08-14T10:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-08-14T10:45:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e507954a08941e70f0a48"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60464bc95c20153123af5d31"
+  },
+  "chosenOffer": "MOMENT A DEUX",
+  "chosenPrice": 150,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-04-24T13:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-04-24T13:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "604630ba5bdf192c5c491509"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60464f675c20153123af5d34"
+  },
+  "chosenOffer": "Choisir une Expérience",
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-04-26T10:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-04-26T10:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "60462f397b02b72bfe3a30a7"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604650155c20153123af5d35"
+  },
+  "chosenOffer": "Choisir une Expérience",
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-04-18T09:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-04-18T09:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4a9868338b411fcb5139"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6046508eac31c61ac8d18be8"
+  },
+  "chosenOffer": "Choisir une Expérience",
+  "chosenPrice": 90,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-04-08T16:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-04-08T17:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604651055c20153123af5d37"
+  },
+  "chosenOffer": "Choisir une Expérience",
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-04-19T10:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-04-19T11:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "6046243145642029802662e7"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604654545c20153123af5d39"
+  },
+  "chosenOffer": "COUPE FEMME AFRO",
+  "chosenPrice": 40,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-04-08T13:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-04-08T13:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "60462934f033382ac3c90f76"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604654745c20153123af5d3a"
+  },
+  "chosenOffer": "BIEN ETRE",
+  "chosenPrice": 50,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-04-19T10:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-04-19T11:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e507954a08941e70f0a48"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60468c1995b8e0adb040a5c4"
+  },
+  "chosenOffer": "COUPE FEMME COLORATION",
+  "chosenPrice": 100,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-09T11:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-09T11:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4da20c2ea9418ce67b25"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604697e89b2515b10705c5a7"
+  },
+  "chosenOffer": "APERO COIF",
+  "chosenPrice": 60,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-09T16:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-09T16:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4da20c2ea9418ce67b25"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604698f49b2515b10705c5a8"
+  },
+  "chosenOffer": "COUPE FEMME BALAYAGE",
+  "chosenPrice": 60,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-10T15:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-10T15:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4a9868338b411fcb5139"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60469d13d76984b3ccd73c4a"
+  },
+  "chosenOffer": "COUPE FEMME PERMANENTE",
+  "chosenPrice": 70,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-10T10:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-10T11:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "60463d79b0b23e2eeb9735a1"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6047220bfe19503d65200905"
+  },
+  "chosenOffer": "COUPE FEMME AFRO",
+  "chosenPrice": 80,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-11T12:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-11T13:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "60462f397b02b72bfe3a30a7"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60472381fe19503d65200906"
+  },
+  "chosenOffer": "MOMENT A DEUX",
+  "chosenPrice": 150,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-02-17T16:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-02-17T17:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "604630ba5bdf192c5c491509"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60472af0fe19503d6520090a"
+  },
+  "chosenOffer": "PLAY HARD CUT HARD",
+  "chosenPrice": 70,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-20T15:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-20T15:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "60462c043b60182b24ca7a46"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60472c5bfe19503d6520090b"
+  },
+  "chosenOffer": "COUPE FEMME PERMANENTE",
+  "chosenPrice": 60,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-26T11:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-26T12:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4a9868338b411fcb5139"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60472fdbfe19503d6520090c"
+  },
+  "chosenOffer": "COUPE FEMME PERMANENTE",
+  "chosenPrice": 60,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-26T17:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-26T18:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4a9868338b411fcb5139"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60473027fe19503d6520090d"
+  },
+  "chosenOffer": "COUPE HOMME COLORATION",
+  "chosenPrice": 70,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-11T12:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-11T14:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4da20c2ea9418ce67b25"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60473778fe19503d6520090e"
+  },
+  "chosenOffer": "COUPE FEMME COLORATION",
+  "chosenPrice": 45,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-25T12:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-25T14:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604737b3fe19503d6520090f"
+  },
+  "chosenOffer": "MOMENT A DEUX",
+  "chosenPrice": 70,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-01-25T15:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-01-25T16:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4a9868338b411fcb5139"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604740598e5348381c7082ff"
+  },
+  "chosenOffer": "COUPE FEMME PERMANENTE",
+  "chosenPrice": 130,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-01-26T14:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-01-26T15:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "60462f397b02b72bfe3a30a7"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604740b45fa81e63d5a1d96a"
+  },
+  "chosenOffer": "APERO COIF",
+  "chosenPrice": 100,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-02-18T13:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-02-18T14:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "604641f86f5dc52f947a5698"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604742aef8cd3e4b6e1ae868"
+  },
+  "chosenOffer": "COUPE FEMME AFRO",
+  "chosenPrice": 50,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-02-25T15:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-02-25T16:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "604637d452a9562dd2b26d89"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60474351d90d4c0f200e6242"
+  },
+  "chosenOffer": "BIEN ETRE",
+  "chosenPrice": 120,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-06-24T14:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-06-24T15:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "6046243145642029802662e7"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60474cd0d90d4c0f200e6246"
+  },
+  "chosenOffer": "PLAY HARD CUT HARD",
+  "chosenPrice": 80,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-02-25T12:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-02-25T13:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "60463f2bb231502f519f5cc7"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6047563c4ae790ecc0e30769"
+  },
+  "chosenOffer": "BIEN ETRE",
+  "chosenPrice": 120,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-02-25T14:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-02-25T15:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "6046243145642029802662e7"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604756c64ae790ecc0e3076b"
+  },
+  "chosenOffer": "COUPE HOMME AFRO",
+  "chosenPrice": 60,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-01-25T14:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-01-25T14:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "60462c043b60182b24ca7a46"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60475886c017e978401bf9d6"
+  },
+  "chosenOffer": "COUPE HOMME",
+  "chosenPrice": 18,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-30T10:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-30T10:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60475925c017e978401bf9d7"
+  },
+  "chosenOffer": "COUPE HOMME",
+  "chosenPrice": 18,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-04-30T10:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-04-30T10:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604759eec017e978401bf9d8"
+  },
+  "chosenOffer": "COUPE HOMME",
+  "chosenPrice": 18,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-04-30T10:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-04-30T10:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60475a9bc017e978401bf9d9"
+  },
+  "chosenOffer": "COUPE HOMME",
+  "chosenPrice": 18,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-10T10:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-10T10:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60475a940e8bbfbda91fc6b8"
+  },
+  "chosenOffer": "COUPE HOMME + BARBE",
+  "chosenPrice": 30,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-09T11:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-09T12:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60475f7d0e8bbfbda91fc6b9"
+  },
+  "chosenOffer": "COUPE FEMME BALAYAGE",
+  "chosenPrice": 60,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-09T11:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-09T12:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4a9868338b411fcb5139"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6047607ec017e978401bf9dc"
+  },
+  "chosenOffer": "PLAY HARD CUT HARD",
+  "chosenPrice": 80,
+  "chosenEmployee": "Fraise",
+  "startDate": {
+    "$date": "2021-02-15T11:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-02-15T12:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "60463d79b0b23e2eeb9735a1"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604760b9ac31c61ac8d18bea"
+  },
+  "chosenOffer": "COUPE HOMME COLORATION",
+  "chosenPrice": 35,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-10T12:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-10T13:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6047610aac31c61ac8d18beb"
+  },
+  "chosenOffer": "COUPE HOMME + BARBE",
+  "chosenPrice": 30,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-10T12:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-10T12:45:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604761d1c017e978401bf9de"
+  },
+  "chosenOffer": "COUPE HOMME + BARBE",
+  "chosenPrice": 35,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-01-27T16:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-01-27T16:45:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "60462934f033382ac3c90f76"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60476234ac31c61ac8d18bec"
+  },
+  "chosenOffer": "COUPE HOMME + BARBE",
+  "chosenPrice": 30,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-10T12:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-10T12:45:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604763c4ac31c61ac8d18bee"
+  },
+  "chosenOffer": "COUPE HOMME + BARBE",
+  "chosenPrice": 30,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-10T17:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-10T17:45:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6047640ff6cbfc5a584c0b75"
+  },
+  "chosenOffer": "COUPE HOMME + BARBE",
+  "chosenPrice": 30,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-10T17:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-10T17:45:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60477323691a6c85205ce9de"
+  },
+  "chosenOffer": "COUPE HOMME",
+  "chosenPrice": 70,
+  "chosenEmployee": "Eleonore",
+  "startDate": {
+    "$date": "2021-01-16T10:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-01-16T10:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "6047719ee11be38487eb1db9"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60477373691a6c85205ce9df"
+  },
+  "chosenOffer": "COUPE FEMME",
+  "chosenPrice": 80,
+  "chosenEmployee": "Armand",
+  "startDate": {
+    "$date": "2021-01-16T10:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-01-16T10:45:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "6047719ee11be38487eb1db9"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604773aa691a6c85205ce9e0"
+  },
+  "chosenOffer": "COUPE FEMME AFRO",
+  "chosenPrice": 80,
+  "chosenEmployee": "Armand",
+  "startDate": {
+    "$date": "2021-02-16T10:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-02-16T11:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "6047719ee11be38487eb1db9"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604773e1691a6c85205ce9e1"
+  },
+  "chosenOffer": "COUPE HOMME AFRO",
+  "chosenPrice": 70,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-01-16T10:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-01-16T11:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "6047719ee11be38487eb1db9"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60477408691a6c85205ce9e2"
+  },
+  "chosenOffer": "APERO COIF",
+  "chosenPrice": 100,
+  "chosenEmployee": "Armand",
+  "startDate": {
+    "$date": "2021-01-16T10:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-01-16T11:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "6047719ee11be38487eb1db9"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60477da147bd7f1ab56bf919"
+  },
+  "chosenOffer": "COUPE FEMME",
+  "chosenPrice": 70,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-10T16:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-10T17:15:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4da20c2ea9418ce67b25"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604786fb85601200ef984ac6"
+  },
+  "chosenOffer": "BIEN ETRE",
+  "chosenPrice": 80,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-01-16T12:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-01-16T13:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "6047719ee11be38487eb1db9"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6047877b85601200ef984ac7"
+  },
+  "chosenOffer": "COUPE HOMME",
+  "chosenPrice": 50,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-02-10T18:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-02-10T18:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4da20c2ea9418ce67b25"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60479ffcefea257d71e91ddb"
+  },
+  "chosenOffer": "Choisir une Experience",
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-10T11:00:00Z"
+  },
+  "endDate": null,
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4a9868338b411fcb5139"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6047a33b8d4bbc0614481780"
+  },
+  "chosenOffer": "BIEN ETRE",
+  "chosenPrice": 50,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-27T14:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-27T14:45:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e507954a08941e70f0a48"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6047a40cefea257d71e91ddc"
+  },
+  "chosenOffer": "Choisir une Experience",
+  "chosenPrice": 90,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-10T16:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-10T17:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6047a599f6cbfc5a584c0b76"
+  },
+  "chosenOffer": "PLAY HARD CUT HARD",
+  "chosenPrice": 50,
+  "chosenEmployee": "Elisabeth",
+  "startDate": {
+    "$date": "2021-03-13T19:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-13T20:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "60462934f033382ac3c90f76"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6047a8cbefea257d71e91ddd"
+  },
+  "chosenOffer": "COUPE HOMME COLORATION",
+  "chosenPrice": 35,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-09T19:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-09T20:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6047aa73962c60077c03b608"
+  },
+  "chosenOffer": "COUPE FEMME PERMANENTE",
+  "chosenPrice": 90,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-26T12:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-26T14:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "6046243145642029802662e7"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6047aaa5aec96d3a442f13b6"
+  },
+  "chosenOffer": "COUPE HOMME",
+  "chosenPrice": 30,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-10T11:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-10T11:45:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4a9868338b411fcb5139"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6047aabff6cbfc5a584c0b77"
+  },
+  "chosenOffer": "COUPE HOMME COLORATION",
+  "chosenPrice": 35,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-09T19:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-09T20:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6047ab16aec96d3a442f13b7"
+  },
+  "chosenOffer": "COUPE HOMME COLORATION",
+  "chosenPrice": 60,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-11T12:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-11T13:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "60463f2bb231502f519f5cc7"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6047ab25f6cbfc5a584c0b78"
+  },
+  "chosenOffer": "COUPE HOMME COLORATION",
+  "chosenPrice": 35,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-09T19:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-09T20:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6047ab35f6cbfc5a584c0b79"
+  },
+  "chosenOffer": "COUPE HOMME COLORATION",
+  "chosenPrice": 35,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-09T18:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-09T20:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6047ab83962c60077c03b609"
+  },
+  "chosenOffer": "PLAY HARD CUT HARD",
+  "chosenPrice": 70,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-18T12:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-18T13:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4da20c2ea9418ce67b25"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6047abc4aec96d3a442f13b8"
+  },
+  "chosenOffer": "COUPE FEMME PERMANENTE",
+  "chosenPrice": 75,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-17T14:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-17T16:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e507954a08941e70f0a48"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6047abccefea257d71e91dde"
+  },
+  "chosenOffer": "BIEN ETRE",
+  "chosenPrice": 120,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-09T19:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-09T20:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "6046243145642029802662e7"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6047abeef6cbfc5a584c0b7a"
+  },
+  "chosenOffer": "COUPE HOMME COLORATION",
+  "chosenPrice": 35,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-10T14:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-10T16:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6047b586f6cbfc5a584c0b7b"
+  },
+  "chosenOffer": "MOMENT A DEUX",
+  "chosenPrice": 90,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-10T13:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-10T14:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6047b616f6cbfc5a584c0b7c"
+  },
+  "chosenOffer": "COUPE HOMME + BARBE",
+  "chosenPrice": 70,
+  "chosenEmployee": "Rachel",
+  "startDate": {
+    "$date": "2021-03-10T14:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-10T14:45:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "60462c043b60182b24ca7a46"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6047b833f6cbfc5a584c0b7d"
+  },
+  "chosenOffer": "COUPE HOMME",
+  "chosenPrice": 30,
+  "chosenEmployee": "Bassem",
+  "startDate": {
+    "$date": "2021-03-09T19:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-09T20:15:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4a9868338b411fcb5139"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6047b88dc3d4210cf7b20ebc"
+  },
+  "chosenOffer": "COUPE HOMME COLORATION",
+  "chosenPrice": 70,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-25T12:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-25T13:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4da20c2ea9418ce67b25"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60487d80d8cd040f0cd47daa"
+  },
+  "chosenOffer": "APERO COIF",
+  "chosenPrice": 100,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-25T11:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-25T12:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "604641f86f5dc52f947a5698"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604884ed558356102eee5387"
+  },
+  "chosenOffer": "COUPE FEMME PERMANENTE",
+  "chosenPrice": 130,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-23T15:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-23T17:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "604630ba5bdf192c5c491509"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604886fbd8a313231c23a4a8"
+  },
+  "chosenOffer": "COUPE HOMME + BARBE",
+  "chosenPrice": 30,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-10T15:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-10T16:15:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604887f81e091128c04711de"
+  },
+  "chosenOffer": "COUPE FEMME",
+  "chosenPrice": 25,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-11T10:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-11T11:15:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048887b1e091128c04711e0"
+  },
+  "chosenOffer": "COUPE FEMME COLORATION",
+  "chosenPrice": 100,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-10T12:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-10T14:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4da20c2ea9418ce67b25"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048a1502d95ce0953931760"
+  },
+  "chosenOffer": "COUPE FEMME",
+  "chosenPrice": 50,
+  "chosenEmployee": "Mathilde",
+  "startDate": {
+    "$date": "2021-03-12T13:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-12T14:15:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "6046243145642029802662e7"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048cd8b15624313fb10fd7d"
+  },
+  "chosenOffer": "COUPE FEMME COLORATION",
+  "chosenPrice": 45,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-10T16:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-10T17:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4a9868338b411fcb5139"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049f4f410dbd9122c3ca253"
+  },
+  "chosenOffer": "COUPE HOMME COLORATION",
+  "chosenPrice": 35,
+  "chosenEmployee": "Dany",
+  "startDate": {
+    "$date": "2021-03-11T13:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-11T14:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049f7d310dbd9122c3ca254"
+  },
+  "chosenOffer": "MOMENT A DEUX",
+  "chosenPrice": 90,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-11T11:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-11T12:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049f9c410dbd9122c3ca256"
+  },
+  "chosenOffer": "MOMENT A DEUX",
+  "chosenPrice": 90,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-11T12:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-11T14:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049ffdba1183d3068b4136b"
+  },
+  "chosenOffer": "COUPE HOMME + BARBE",
+  "chosenPrice": 40,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-11T14:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-11T15:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4a9868338b411fcb5139"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604a014ba1183d3068b4136c"
+  },
+  "chosenOffer": "COUPE HOMME + BARBE",
+  "chosenPrice": 40,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-11T14:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-11T15:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4a9868338b411fcb5139"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604a0165a1183d3068b4136d"
+  },
+  "chosenOffer": "COUPE HOMME + BARBE",
+  "chosenPrice": 40,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-11T14:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-11T15:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4a9868338b411fcb5139"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604a2601310bf455d4b7b4fd"
+  },
+  "chosenOffer": "COUPE FEMME BALAYAGE",
+  "chosenPrice": 65,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-11T17:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-11T18:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "60463f2bb231502f519f5cc7"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604a32373224880015f1147f"
+  },
+  "chosenOffer": "COUPE FEMME",
+  "chosenPrice": 40,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-18T11:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-18T12:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4a9868338b411fcb5139"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6054cb2cecf23f00151039f3"
+  },
+  "chosenOffer": "COUPE FEMME",
+  "chosenPrice": 40,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-19T18:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-19T19:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4a9868338b411fcb5139"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6055ca3e3b89f57ac0fe9a27"
+  },
+  "chosenOffer": "COUPE FEMME AFRO",
+  "chosenPrice": 45,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-26T17:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-26T18:15:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e507954a08941e70f0a48"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6055ca863b89f57ac0fe9a28"
+  },
+  "chosenOffer": "COUPE HOMME AFRO",
+  "chosenPrice": 45,
+  "chosenEmployee": "Rafael",
+  "startDate": {
+    "$date": "2021-03-26T10:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-26T11:15:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e507954a08941e70f0a48"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6055ca953b89f57ac0fe9a29"
+  },
+  "chosenOffer": "COUPE HOMME AFRO",
+  "chosenPrice": 45,
+  "chosenEmployee": "Rafael",
+  "startDate": {
+    "$date": "2021-03-26T10:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-26T11:15:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e507954a08941e70f0a48"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6055cb063b89f57ac0fe9a2a"
+  },
+  "chosenOffer": "COUPE HOMME AFRO",
+  "chosenPrice": 45,
+  "chosenEmployee": "Rafael",
+  "startDate": {
+    "$date": "2021-03-26T10:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-26T11:15:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e507954a08941e70f0a48"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6055cec13b89f57ac0fe9a2b"
+  },
+  "chosenOffer": "COUPE FEMME AFRO",
+  "chosenPrice": 45,
+  "chosenEmployee": "Rafael",
+  "startDate": {
+    "$date": "2021-03-24T17:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-24T17:45:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e507954a08941e70f0a48"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6055f6303b89f57ac0fe9a2c"
+  },
+  "chosenOffer": "COUPE FEMME COLORATION",
+  "chosenPrice": 70,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-23T11:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-23T12:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "6046243145642029802662e7"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6056005d3b89f57ac0fe9a2e"
+  },
+  "chosenOffer": "COUPE FEMME COLORATION",
+  "chosenPrice": 70,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-25T11:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-25T12:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "6046243145642029802662e7"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605775f45810e3989455a288"
+  },
+  "chosenOffer": "COUPE HOMME AFRO",
+  "chosenPrice": 50,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-26T10:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-26T11:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "604637d452a9562dd2b26d89"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605779865810e3989455a289"
+  },
+  "chosenOffer": "COUPE HOMME + BARBE",
+  "chosenPrice": 30,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-26T12:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-26T13:15:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6057800c5810e3989455a28a"
+  },
+  "chosenOffer": "COUPE FEMME",
+  "chosenPrice": 40,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-23T14:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-23T15:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4a9868338b411fcb5139"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60578f235810e3989455a28b"
+  },
+  "chosenOffer": "COUPE FEMME AFRO",
+  "chosenPrice": 80,
+  "chosenEmployee": "Arnaud",
+  "startDate": {
+    "$date": "2021-03-24T11:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-24T11:45:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "604630ba5bdf192c5c491509"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6057940f5810e3989455a28c"
+  },
+  "chosenOffer": "COUPE HOMME",
+  "chosenPrice": 30,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-22T14:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-22T15:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "60462934f033382ac3c90f76"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605796e75810e3989455a28d"
+  },
+  "chosenOffer": "COUPE FEMME",
+  "chosenPrice": 25,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-25T12:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-25T13:15:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6058807830cee3a9245f0081"
+  },
+  "chosenOffer": "COUPE HOMME",
+  "chosenPrice": 18,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-26T13:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-26T13:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6058ae3730cee3a9245f0082"
+  },
+  "chosenOffer": "COUPE FEMME PERMANENTE",
+  "chosenPrice": 90,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-04-01T08:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-04-01T09:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "6046243145642029802662e7"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6058aefb30cee3a9245f0083"
+  },
+  "chosenOffer": "COUPE FEMME AFRO",
+  "chosenPrice": 40,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-04-01T12:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-04-01T12:45:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "60462934f033382ac3c90f76"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6058b19b30cee3a9245f0084"
+  },
+  "chosenOffer": "PLAY HARD CUT HARD",
+  "chosenPrice": 45,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-04-01T08:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-04-01T09:10:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "60462c043b60182b24ca7a46"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6058b5f130cee3a9245f0085"
+  },
+  "chosenOffer": "COUPE FEMME",
+  "chosenPrice": 60,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-24T09:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-24T09:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "60462c043b60182b24ca7a46"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6058b62f30cee3a9245f0086"
+  },
+  "chosenOffer": "COUPE HOMME",
+  "chosenPrice": 70,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-24T09:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-24T09:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "604641f86f5dc52f947a5698"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6058b6b530cee3a9245f0087"
+  },
+  "chosenOffer": "COUPE FEMME",
+  "chosenPrice": 80,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-23T12:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-23T13:15:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "604641f86f5dc52f947a5698"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6058beec30cee3a9245f0088"
+  },
+  "chosenOffer": "COUPE FEMME",
+  "chosenPrice": 50,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-22T09:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-22T09:45:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "6046243145642029802662e7"
+  },
+  "commentExists": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6058bf5e30cee3a9245f0089"
+  },
+  "chosenOffer": "COUPE FEMME",
+  "chosenPrice": 80,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-22T09:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-22T09:45:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "60462f397b02b72bfe3a30a7"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059cea25582144500feffe9"
+  },
+  "chosenOffer": "COUPE HOMME",
+  "chosenPrice": 50,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-23T13:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-23T14:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4da20c2ea9418ce67b25"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059e4e5106f20c6c0dfca1c"
+  },
+  "chosenOffer": "COUPE FEMME BALAYAGE",
+  "chosenPrice": 110,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-04-03T18:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-04-03T19:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "604630ba5bdf192c5c491509"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059e53f106f20c6c0dfca1d"
+  },
+  "chosenOffer": "COUPE FEMME AFRO",
+  "chosenPrice": 80,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-30T07:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-30T08:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "6047719ee11be38487eb1db9"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059e8e45396567e3cccb397"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059ea14ae08a1d940330284"
+  },
+  "chosenOffer": "COUPE FEMME BALAYAGE",
+  "chosenPrice": 65,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-23T14:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-23T15:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "60463f2bb231502f519f5cc7"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605a070f9e28ae41f81c2ed2"
+  },
+  "chosenOffer": "COUPE FEMME AFRO",
+  "chosenPrice": 80,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-24T14:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-24T14:45:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "604630ba5bdf192c5c491509"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605a0a3bd35a75e3d4a305c2"
+  },
+  "chosenOffer": "COUPE HOMME",
+  "chosenPrice": 30,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-24T13:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-24T13:30:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "60462934f033382ac3c90f76"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605b478864edbf9010126b8d"
+  },
+  "chosenOffer": "COUPE FEMME",
+  "chosenPrice": 80,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-24T14:30:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-24T15:15:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "6047719ee11be38487eb1db9"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605b4dff7ac292c178d285fb"
+  },
+  "chosenOffer": "COUPE FEMME",
+  "chosenPrice": 70,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-24T18:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-24T18:45:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "603e4da20c2ea9418ce67b25"
+  },
+  "commentExists": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605b5fc0653e920015e04c7f"
+  },
+  "chosenOffer": "COUPE HOMME COLORATION",
+  "chosenPrice": 60,
+  "chosenEmployee": "Choix du Coiffeur",
+  "startDate": {
+    "$date": "2021-03-24T17:00:00Z"
+  },
+  "endDate": {
+    "$date": "2021-03-24T18:00:00Z"
+  },
+  "chosenPayment": "onshop",
+  "appointmentStatus": "validated",
+  "shopId": {
+    "$oid": "60463d79b0b23e2eeb9735a1"
+  },
+  "commentExists": false,
+  "__v": 0
+}]

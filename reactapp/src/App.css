@@ -1,0 +1,174 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #FFE082;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.stylesContainer {
+  flex: 1;
+  background-color: '#fff';
+  align-items: 'center';
+  justify-content: 'center';
+}
+
+.stylesDiv1 {
+  display: 'flex';
+  flex-direction: 'row';
+  justify-content: 'space-between';
+}
+
+.stylesDiv2 { width: '40%' }
+
+.stylesCard {
+  display: 'flex';
+  flex-direction: 'row';
+  background-color: 'white';
+  margin-bottom: 5;
+}
+
+.stylesPad { padding: 2 }
+.stylesText { width: '60%'; padding: 10 }
+.stylesImage { height: 145; width: 140 }
+.stylesPicto { display: 'flex'; flex-direction: 'row' }
+
+.leaflet-container {
+  height: 600px;
+  width: 100%;
+}
+
+.carouselStyle {
+  max-width: 100%;
+  height: 40%;
+}
+
+.leaflet-div-icon {
+  background: transparent;
+  border: none;
+}
+
+.button-col {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  height: 100%;
+  margin-bottom: 10px;
+}
+
+
+.containerHomeScreen {
+  background-color:#FFE082; 
+  height:100vh;
+}
+
+@media screen and (max-width: 1400px) {
+
+  .containerHomeScreen {
+    height: 100%;
+  }
+}
+
+.containerProfileScreen {
+  background-color:#FFE082; 
+  height:100vh;
+}
+
+.containerAppointmentScreen {
+  background-color:#FFE082; 
+  height:100%;
+}
+
+@media screen and (max-width: 1800px) {
+
+  .containerAppointmentScreen {
+    height: 100%;
+  }
+}
+ 
+nav .navbar-nav li a{
+  color: white !important;
+  }
+
+.navbarStach {
+  color: white !important;
+}
+
+.carousel-item, .carousel-item.active {
+  align-items:center;
+}
+
+.homeScreenForm {
+  background-color: #FFFAEB;
+  padding: 36px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.homeScreenCaptionText {
+  background-color: rgba(0,0,0,0.5);
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+} 
+
+.cardListScreen {
+  display: flex;
+  flex-direction: row;
+}
+
+.signForm {
+  background-color: #FFFAEB;
+  padding: 36px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.appointmentCard {
+  background-color: #FFFAEB;
+  padding: 48px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.logo {
+  font-family: 'Caveat Brush', cursive;
+}

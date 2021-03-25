@@ -1,0 +1,385 @@
+[{
+  "_id": {
+    "$oid": "603e3bfdac531745726a5ab7"
+  },
+  "images": [],
+  "favorites": [
+    null,
+    {
+      "$oid": "6047719ee11be38487eb1db9"
+    },
+    {
+      "$oid": "60463d79b0b23e2eeb9735a1"
+    },
+    {
+      "$oid": "603e4da20c2ea9418ce67b25"
+    }
+  ],
+  "shopId": [],
+  "comments": [
+    {
+      "$oid": "6040a5b729fae9ac091714e7"
+    },
+    {
+      "$oid": "6040a8b059ad8ead3ccf8115"
+    },
+    {
+      "$oid": "6040a90259ad8ead3ccf8116"
+    },
+    {
+      "$oid": "6040ace3ac3435adb18d6dfa"
+    },
+    {
+      "$oid": "6040ad37ac3435adb18d6dfb"
+    },
+    {
+      "$oid": "6040af0c2a83e8ae63b9964e"
+    },
+    {
+      "$oid": "6040b148cbb7c9aed20b179f"
+    },
+    {
+      "$oid": "604106ac290de4dbf3f71069"
+    },
+    {
+      "$oid": "6041080269985f2fb99209d1"
+    },
+    {
+      "$oid": "604266b10e0e7f33ecd0b582"
+    },
+    {
+      "$oid": "6055fc833b89f57ac0fe9a2d"
+    },
+    {
+      "$oid": "605600793b89f57ac0fe9a2f"
+    },
+    {
+      "$oid": "605797df5810e3989455a28e"
+    },
+    {
+      "$oid": "6058df4630cee3a9245f008a"
+    },
+    {
+      "$oid": "6058e05430cee3a9245f008b"
+    },
+    {
+      "$oid": "6059932a44406bc5e02de341"
+    },
+    {
+      "$oid": "6059ceb95582144500feffea"
+    },
+    {
+      "$oid": "6059f2d525d69ead54ff89db"
+    },
+    {
+      "$oid": "6059f2fb25d69ead54ff89dc"
+    },
+    {
+      "$oid": "6059f3b30ae841ae7c0a0e6d"
+    },
+    {
+      "$oid": "605a0b1223f33cd7e02870eb"
+    },
+    {
+      "$oid": "605b4e147ac292c178d285fc"
+    }
+  ],
+  "appointments": [
+    {
+      "$oid": "603f61fe67afbb67e80642e2"
+    },
+    {
+      "$oid": "603f47bf3611e4577ba59c32"
+    },
+    {
+      "$oid": "603f47463611e4577ba59c31"
+    },
+    {
+      "$oid": "60474351d90d4c0f200e6242"
+    },
+    {
+      "$oid": "6047aaa5aec96d3a442f13b6"
+    },
+    {
+      "$oid": "6047ab16aec96d3a442f13b7"
+    },
+    {
+      "$oid": "6047ab83962c60077c03b609"
+    },
+    {
+      "$oid": "6047abc4aec96d3a442f13b8"
+    },
+    {
+      "$oid": "604887f81e091128c04711de"
+    },
+    {
+      "$oid": "604a2601310bf455d4b7b4fd"
+    },
+    {
+      "$oid": "604a32373224880015f1147f"
+    },
+    {
+      "$oid": "6054cb2cecf23f00151039f3"
+    },
+    {
+      "$oid": "6055ca3e3b89f57ac0fe9a27"
+    },
+    {
+      "$oid": "6055ca863b89f57ac0fe9a28"
+    },
+    {
+      "$oid": "6055ca953b89f57ac0fe9a29"
+    },
+    {
+      "$oid": "6055cb063b89f57ac0fe9a2a"
+    },
+    {
+      "$oid": "6055cec13b89f57ac0fe9a2b"
+    },
+    {
+      "$oid": "6055f6303b89f57ac0fe9a2c"
+    },
+    {
+      "$oid": "6056005d3b89f57ac0fe9a2e"
+    },
+    {
+      "$oid": "605775f45810e3989455a288"
+    },
+    {
+      "$oid": "605779865810e3989455a289"
+    },
+    {
+      "$oid": "6057800c5810e3989455a28a"
+    },
+    {
+      "$oid": "60578f235810e3989455a28b"
+    },
+    {
+      "$oid": "6057940f5810e3989455a28c"
+    },
+    {
+      "$oid": "605796e75810e3989455a28d"
+    },
+    {
+      "$oid": "6058807830cee3a9245f0081"
+    },
+    {
+      "$oid": "6058ae3730cee3a9245f0082"
+    },
+    {
+      "$oid": "6058aefb30cee3a9245f0083"
+    },
+    {
+      "$oid": "6058b19b30cee3a9245f0084"
+    },
+    {
+      "$oid": "6058b5f130cee3a9245f0085"
+    },
+    {
+      "$oid": "6058b62f30cee3a9245f0086"
+    },
+    {
+      "$oid": "6058b6b530cee3a9245f0087"
+    },
+    {
+      "$oid": "6058beec30cee3a9245f0088"
+    },
+    {
+      "$oid": "6058bf5e30cee3a9245f0089"
+    },
+    {
+      "$oid": "6059cea25582144500feffe9"
+    },
+    {
+      "$oid": "6059e4e5106f20c6c0dfca1c"
+    },
+    {
+      "$oid": "6059e53f106f20c6c0dfca1d"
+    },
+    {
+      "$oid": "6059ea14ae08a1d940330284"
+    },
+    {
+      "$oid": "605a0a3bd35a75e3d4a305c2"
+    },
+    {
+      "$oid": "605b478864edbf9010126b8d"
+    },
+    {
+      "$oid": "605b4dff7ac292c178d285fb"
+    },
+    {
+      "$oid": "605b5fc0653e920015e04c7f"
+    }
+  ],
+  "firstName": "Mario",
+  "lastName": "Luigi",
+  "phoneNumber": "0692845408",
+  "email": "raf@gmail.com",
+  "password": "$2b$10$Qn5NcGb35EauZNMyNdu8je1l9Zwxc.5dW9QL/Xab6BOcBrKc62FF.",
+  "status": "customer",
+  "token": "MFlp162U9D2UvN0wuQ7Bw9XZcnTB37mH",
+  "createdAt": {
+    "$date": "2021-03-02T13:22:05.164Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-24T15:50:24.525Z"
+  },
+  "__v": 28,
+  "gender": "un homme",
+  "hairLength": "long",
+  "hairType": "ondulé",
+  "loyaltyPoints": 1950
+},{
+  "_id": {
+    "$oid": "6054de406198e81d74f40a81"
+  },
+  "images": [],
+  "favorites": [],
+  "shopId": [],
+  "comments": [],
+  "appointments": [],
+  "firstName": "Jean",
+  "lastName": "Robert",
+  "phoneNumber": "0123456789",
+  "email": "jean@robert.com",
+  "password": "$2b$10$PPJar3VhkPthnl/sRJFeJ.9k9.Qw2Xe6ZMhQ.qhmTIpdbX7KLejYm",
+  "status": "customer",
+  "token": "soutJTyQgOnPLwJAlKu2OHhjfeMA0mpl",
+  "loyaltyPoints": 0,
+  "createdAt": {
+    "$date": "2021-03-19T17:24:16.045Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-19T17:24:16.045Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60579bb95810e3989455a28f"
+  },
+  "images": [],
+  "favorites": [],
+  "shopId": [],
+  "comments": [],
+  "appointments": [],
+  "firstName": "Frederique",
+  "lastName": "Legendre",
+  "phoneNumber": "0123456789",
+  "email": "frederique@legendre.com",
+  "password": "$2b$10$rz9ei7zTqnOoDZxECqWabOQZ9A5uxQ3Dgbxa63UKzAS61t6obd3d.",
+  "status": "customer",
+  "token": "M8l3WiiPe9AtCPLaf0M09EBFS33IgGHT",
+  "loyaltyPoints": 0,
+  "createdAt": {
+    "$date": "2021-03-21T19:17:13.183Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-21T19:17:13.183Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605a070c9e28ae41f81c2ed1"
+  },
+  "images": [],
+  "favorites": [
+    {
+      "$oid": "604630ba5bdf192c5c491509"
+    }
+  ],
+  "shopId": [],
+  "comments": [],
+  "appointments": [
+    {
+      "$oid": "605a070f9e28ae41f81c2ed2"
+    }
+  ],
+  "firstName": "Aurelie",
+  "lastName": "Dubois",
+  "phoneNumber": "0123456789",
+  "email": "aurelie@dubois.com",
+  "password": "$2b$10$XtY6D7grjvWOIV4gX75Bw.WXaPoyu2kjzAmIcm7Prwk5jduQZ1ojC",
+  "status": "customer",
+  "token": "4dcNYEFdjLWLcvEA67mwsomKVrEhE73D",
+  "loyaltyPoints": 50,
+  "createdAt": {
+    "$date": "2021-03-23T15:19:40.946Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-23T15:20:02.423Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "605a19cb99072cd240467ce4"
+  },
+  "images": [],
+  "favorites": [],
+  "shopId": [],
+  "comments": [],
+  "appointments": [],
+  "firstName": "Johnny",
+  "lastName": "DoeDoe",
+  "phoneNumber": "0123456789",
+  "email": "john.doe@gmail.com",
+  "password": "$2b$10$r5wujsd0cVGbRG9m5j.iq.S7vZzybJIUBZEhVSdTSmD/eqeVLr7Vi",
+  "status": "customer",
+  "token": "vLFIqnMYXg3YHvsZQhVGgNGwDed54jWD",
+  "loyaltyPoints": 0,
+  "createdAt": {
+    "$date": "2021-03-23T16:39:39.451Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-23T16:39:39.451Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605b17bd2145663d68f48051"
+  },
+  "images": [],
+  "favorites": [],
+  "shopId": [],
+  "comments": [],
+  "appointments": [],
+  "firstName": "Jean",
+  "lastName": "Pierre",
+  "phoneNumber": "0123456789",
+  "email": "jean@pierre.com",
+  "password": "$2b$10$wBQLQoJgjWo6UHX49LKi6umNb08bmjgdQax3dn./MZVGlykvb4l6m",
+  "status": "customer",
+  "token": "NFkQxG8nCY4vZGyDaHsu4ppmFZe7uODa",
+  "loyaltyPoints": 0,
+  "createdAt": {
+    "$date": "2021-03-24T10:43:09.640Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-24T10:43:09.640Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605b4e427ac292c178d285fd"
+  },
+  "images": [],
+  "favorites": [],
+  "shopId": [],
+  "comments": [],
+  "appointments": [],
+  "firstName": "Fabien",
+  "lastName": "Barthez",
+  "phoneNumber": "0123456789",
+  "email": "fabien@barthez.com",
+  "password": "$2b$10$tGKGblNletfl9sKhQPsuquvJEtMlzCUMRQT22cFLGBZuKmNoJOGAq",
+  "status": "customer",
+  "token": "QH7MEsVUiB4ve2cC3DGFlC2oYPEYznrd",
+  "loyaltyPoints": 0,
+  "createdAt": {
+    "$date": "2021-03-24T14:35:46.690Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-24T14:35:46.690Z"
+  },
+  "__v": 0
+}]

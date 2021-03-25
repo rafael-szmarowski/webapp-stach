@@ -1,0 +1,2597 @@
+[{
+  "_id": {
+    "$oid": "603e42b76fbccc3f40024b30"
+  },
+  "shopImages": [
+    "https://images.pexels.com/photos/1319460/pexels-photo-1319460.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    "https://images.pexels.com/photos/1813272/pexels-photo-1813272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  ],
+  "shopFeatures": [
+    "wheelchair-alt",
+    "glass",
+    "gamepad"
+  ],
+  "comments": [
+    {
+      "$oid": "6040a2cdedc29ea9910d6384"
+    },
+    {
+      "$oid": "6040a53729fae9ac091714e6"
+    },
+    {
+      "$oid": "6040ace3ac3435adb18d6dfa"
+    },
+    {
+      "$oid": "6040b148cbb7c9aed20b179f"
+    },
+    {
+      "$oid": "6040ee1086935fcd6576b2a7"
+    },
+    {
+      "$oid": "6040f2d593b282d08ea3ad86"
+    },
+    {
+      "$oid": "6040f35beec8d4d0f7c0d9ab"
+    },
+    {
+      "$oid": "6040f76d4b883ad1e80b0d49"
+    },
+    {
+      "$oid": "6040fffa8d916ad849e71d40"
+    },
+    {
+      "$oid": "6047c410efea257d71e91ddf"
+    },
+    {
+      "$oid": "6049f87b10dbd9122c3ca255"
+    },
+    {
+      "$oid": "6059f2d525d69ead54ff89db"
+    }
+  ],
+  "shopEmployees": [
+    "Fred",
+    "Dany"
+  ],
+  "appointments": [
+    {
+      "$oid": "603f462f3611e4577ba59c2f"
+    },
+    {
+      "$oid": "603f46b83611e4577ba59c30"
+    },
+    {
+      "$oid": "603f47463611e4577ba59c31"
+    },
+    {
+      "$oid": "6046508eac31c61ac8d18be8"
+    },
+    {
+      "$oid": "60465098ac31c61ac8d18be9"
+    },
+    {
+      "$oid": "60473778fe19503d6520090e"
+    },
+    {
+      "$oid": "60475886c017e978401bf9d6"
+    },
+    {
+      "$oid": "60475925c017e978401bf9d7"
+    },
+    {
+      "$oid": "604759eec017e978401bf9d8"
+    },
+    {
+      "$oid": "60475a9bc017e978401bf9d9"
+    },
+    {
+      "$oid": "60475a940e8bbfbda91fc6b8"
+    },
+    {
+      "$oid": "604760b9ac31c61ac8d18bea"
+    },
+    {
+      "$oid": "6047610aac31c61ac8d18beb"
+    },
+    {
+      "$oid": "60476234ac31c61ac8d18bec"
+    },
+    {
+      "$oid": "604763c4ac31c61ac8d18bee"
+    },
+    {
+      "$oid": "6047640ff6cbfc5a584c0b75"
+    },
+    {
+      "$oid": "6047a40cefea257d71e91ddc"
+    },
+    {
+      "$oid": "6047a8cbefea257d71e91ddd"
+    },
+    {
+      "$oid": "6047aabff6cbfc5a584c0b77"
+    },
+    {
+      "$oid": "6047ab25f6cbfc5a584c0b78"
+    },
+    {
+      "$oid": "6047ab35f6cbfc5a584c0b79"
+    },
+    {
+      "$oid": "6047abeef6cbfc5a584c0b7a"
+    },
+    {
+      "$oid": "6047b586f6cbfc5a584c0b7b"
+    },
+    {
+      "$oid": "604886fbd8a313231c23a4a8"
+    },
+    {
+      "$oid": "604887f81e091128c04711de"
+    },
+    {
+      "$oid": "6049f4f410dbd9122c3ca253"
+    },
+    {
+      "$oid": "6049f7d310dbd9122c3ca254"
+    },
+    {
+      "$oid": "6049f9c410dbd9122c3ca256"
+    },
+    {
+      "$oid": "605779865810e3989455a289"
+    },
+    {
+      "$oid": "605796e75810e3989455a28d"
+    },
+    {
+      "$oid": "6058807830cee3a9245f0081"
+    }
+  ],
+  "shopName": "Coup Tif",
+  "shopAddress": "72 Boulevard Pereire, 75017 Paris, France",
+  "shopPhone": "0100000078",
+  "shopMail": "couptif@gmail.com",
+  "shopDescription": "Salon indépendant avec exposition permanente d’artistes. Dans une déco aux couleurs sobres, l’équipe du salon de coiffure vous accueillera très chaleureusement. ",
+  "offers": [
+    {
+      "_id": {
+        "$oid": "603e42b76fbccc3f40024b31"
+      },
+      "type": "COUPE HOMME",
+      "price": 18,
+      "duration": 30
+    },
+    {
+      "_id": {
+        "$oid": "603e42b76fbccc3f40024b32"
+      },
+      "type": "COUPE FEMME",
+      "price": 25,
+      "duration": 45
+    },
+    {
+      "_id": {
+        "$oid": "603e42b76fbccc3f40024b33"
+      },
+      "type": "COUPE HOMME + BARBE",
+      "price": 30,
+      "duration": 45
+    },
+    {
+      "_id": {
+        "$oid": "603e42b76fbccc3f40024b34"
+      },
+      "type": "COUPE HOMME COLORATION",
+      "price": 35,
+      "duration": 90
+    },
+    {
+      "_id": {
+        "$oid": "603e42b76fbccc3f40024b35"
+      },
+      "type": "COUPE FEMME COLORATION",
+      "price": 45,
+      "duration": 120
+    }
+  ],
+  "packages": [
+    {
+      "_id": {
+        "$oid": "603e42b76fbccc3f40024b36"
+      },
+      "type": "MOMENT A DEUX",
+      "price": 90,
+      "duration": 90,
+      "description": "Partager un moment à détente à deux. Inclus : deux coupes adultes, une bouteille de champagne à partager"
+    }
+  ],
+  "schedule": [
+    {
+      "_id": {
+        "$oid": "603e42b76fbccc3f40024b37"
+      },
+      "dayOfTheWeek": "Monday",
+      "openingHours": 480,
+      "closingHours": 1140
+    },
+    {
+      "_id": {
+        "$oid": "603e42b76fbccc3f40024b38"
+      },
+      "dayOfTheWeek": "Tuesday",
+      "openingHours": 480,
+      "closingHours": 1140
+    },
+    {
+      "_id": {
+        "$oid": "603e42b76fbccc3f40024b39"
+      },
+      "dayOfTheWeek": "Wednesday",
+      "openingHours": 480,
+      "closingHours": 1140
+    },
+    {
+      "_id": {
+        "$oid": "603e42b76fbccc3f40024b3a"
+      },
+      "dayOfTheWeek": "Thursday",
+      "openingHours": 480,
+      "closingHours": 1140
+    },
+    {
+      "_id": {
+        "$oid": "603e42b76fbccc3f40024b3b"
+      },
+      "dayOfTheWeek": "Friday",
+      "openingHours": 480,
+      "closingHours": 1140
+    },
+    {
+      "_id": {
+        "$oid": "603e42b76fbccc3f40024b3c"
+      },
+      "dayOfTheWeek": "Saturday",
+      "openingHours": 480,
+      "closingHours": 1140
+    }
+  ],
+  "atHome": false,
+  "__v": 13,
+  "rating": 3.33333333325,
+  "priceFork": 1,
+  "latitude": 48.8873101,
+  "longitude": 2.3021922
+},{
+  "_id": {
+    "$oid": "603e4a9868338b411fcb5139"
+  },
+  "shopImages": [
+    "https://images.pexels.com/photos/3065209/pexels-photo-3065209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "https://images.pexels.com/photos/1319461/pexels-photo-1319461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  ],
+  "shopFeatures": [
+    "coffee",
+    "leaf",
+    "paw"
+  ],
+  "comments": [
+    {
+      "$oid": "6040a5b729fae9ac091714e7"
+    },
+    {
+      "$oid": "6040aa6dd91931ad8bac5c17"
+    },
+    {
+      "$oid": "6040aab5d91931ad8bac5c18"
+    },
+    {
+      "$oid": "6040ad37ac3435adb18d6dfb"
+    },
+    {
+      "$oid": "6040af0c2a83e8ae63b9964e"
+    },
+    {
+      "$oid": "6055fc833b89f57ac0fe9a2d"
+    },
+    {
+      "$oid": "6058df4630cee3a9245f008a"
+    },
+    {
+      "$oid": "6059932a44406bc5e02de341"
+    },
+    {
+      "$oid": "6059ceb95582144500feffea"
+    }
+  ],
+  "shopEmployees": [
+    "Bassem",
+    "Isabelle",
+    "Ivan"
+  ],
+  "appointments": [
+    {
+      "$oid": "603f47bf3611e4577ba59c32"
+    },
+    {
+      "$oid": "6045dc697eeafc8e347e5dbf"
+    },
+    {
+      "$oid": "604650155c20153123af5d35"
+    },
+    {
+      "$oid": "60465851de21b634786d1dd3"
+    },
+    {
+      "$oid": "604698f49b2515b10705c5a8"
+    },
+    {
+      "$oid": "60472c5bfe19503d6520090b"
+    },
+    {
+      "$oid": "60472fdbfe19503d6520090c"
+    },
+    {
+      "$oid": "604737b3fe19503d6520090f"
+    },
+    {
+      "$oid": "60475f7d0e8bbfbda91fc6b9"
+    },
+    {
+      "$oid": "60479ffcefea257d71e91ddb"
+    },
+    {
+      "$oid": "6047aaa5aec96d3a442f13b6"
+    },
+    {
+      "$oid": "6047b833f6cbfc5a584c0b7d"
+    },
+    {
+      "$oid": "6048cd8b15624313fb10fd7d"
+    },
+    {
+      "$oid": "6049ffdba1183d3068b4136b"
+    },
+    {
+      "$oid": "604a014ba1183d3068b4136c"
+    },
+    {
+      "$oid": "604a0165a1183d3068b4136d"
+    },
+    {
+      "$oid": "604a32373224880015f1147f"
+    },
+    {
+      "$oid": "6054cb2cecf23f00151039f3"
+    },
+    {
+      "$oid": "6057800c5810e3989455a28a"
+    }
+  ],
+  "shopName": "Le Barbier de Seville",
+  "shopAddress": "56 Rue des Martyrs, 75009 Paris, France",
+  "shopPhone": "0100067587",
+  "shopMail": "seville@gmail.com",
+  "shopDescription": "Envie d’un changement total de look ou d'un simple rafraîchissement ? Venez découvrir notre salon de coiffure",
+  "offers": [
+    {
+      "_id": {
+        "$oid": "603e4a9868338b411fcb513a"
+      },
+      "type": "COUPE HOMME",
+      "price": 30,
+      "duration": 45
+    },
+    {
+      "_id": {
+        "$oid": "603e4a9868338b411fcb513b"
+      },
+      "type": "COUPE FEMME",
+      "price": 40,
+      "duration": 60
+    },
+    {
+      "_id": {
+        "$oid": "603e4a9868338b411fcb513c"
+      },
+      "type": "COUPE HOMME + BARBE",
+      "price": 40,
+      "duration": 60
+    },
+    {
+      "_id": {
+        "$oid": "603e4a9868338b411fcb513d"
+      },
+      "type": "COUPE FEMME BALAYAGE",
+      "price": 60,
+      "duration": 90
+    },
+    {
+      "_id": {
+        "$oid": "603e4a9868338b411fcb513e"
+      },
+      "type": "COUPE FEMME COLORATION",
+      "price": 45,
+      "duration": 90
+    },
+    {
+      "_id": {
+        "$oid": "603e4a9868338b411fcb513f"
+      },
+      "type": "COUPE FEMME PERMANENTE",
+      "price": 60,
+      "duration": 120
+    }
+  ],
+  "packages": [
+    {
+      "_id": {
+        "$oid": "603e4a9868338b411fcb5140"
+      },
+      "type": "APERO COIF",
+      "price": 55,
+      "duration": 90,
+      "description": "Réserve avec tes amis et profite d'un apéro en te faisant coiffer avant ta soirée. Deux coktails inclus. "
+    },
+    {
+      "_id": {
+        "$oid": "603e4a9868338b411fcb5141"
+      },
+      "type": "MOMENT A DEUX",
+      "price": 70,
+      "duration": 60,
+      "description": "Partager un moment à détente à deux. Inclus : deux coupes adultes, une bouteille de champagne à partager"
+    }
+  ],
+  "schedule": [
+    {
+      "_id": {
+        "$oid": "603e4a9868338b411fcb5142"
+      },
+      "dayOfTheWeek": "Tuesday",
+      "openingHours": 540,
+      "closingHours": 1200
+    },
+    {
+      "_id": {
+        "$oid": "603e4a9868338b411fcb5143"
+      },
+      "dayOfTheWeek": "Wednesday",
+      "openingHours": 540,
+      "closingHours": 1200
+    },
+    {
+      "_id": {
+        "$oid": "603e4a9868338b411fcb5144"
+      },
+      "dayOfTheWeek": "Thursday",
+      "openingHours": 540,
+      "closingHours": 1200
+    },
+    {
+      "_id": {
+        "$oid": "603e4a9868338b411fcb5145"
+      },
+      "dayOfTheWeek": "Friday",
+      "openingHours": 540,
+      "closingHours": 1200
+    },
+    {
+      "_id": {
+        "$oid": "603e4a9868338b411fcb5146"
+      },
+      "dayOfTheWeek": "Saturday",
+      "openingHours": 540,
+      "closingHours": 1200
+    },
+    {
+      "_id": {
+        "$oid": "603e4a9868338b411fcb5147"
+      },
+      "dayOfTheWeek": "Sunday",
+      "openingHours": 540,
+      "closingHours": 720
+    }
+  ],
+  "atHome": true,
+  "__v": 2,
+  "rating": 3.4444444444444446,
+  "priceFork": 1,
+  "latitude": 48.880184,
+  "longitude": 2.3404824
+},{
+  "_id": {
+    "$oid": "603e4da20c2ea9418ce67b25"
+  },
+  "shopImages": [
+    "https://images.pexels.com/photos/696287/pexels-photo-696287.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "https://images.pexels.com/photos/897251/pexels-photo-897251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  ],
+  "shopFeatures": [
+    "coffee",
+    "wheelchair-alt",
+    "paw",
+    "glass"
+  ],
+  "comments": [
+    {
+      "$oid": "6040a736cb6e7bac39193c27"
+    },
+    {
+      "$oid": "6040a8342b1bd6ad0bb046f1"
+    },
+    {
+      "$oid": "6040a8b059ad8ead3ccf8115"
+    },
+    {
+      "$oid": "604266b10e0e7f33ecd0b582"
+    },
+    {
+      "$oid": "6047885285601200ef984ac8"
+    },
+    {
+      "$oid": "6047c430efea257d71e91de0"
+    },
+    {
+      "$oid": "605797df5810e3989455a28e"
+    }
+  ],
+  "shopEmployees": [
+    "Yaya",
+    "Edmond"
+  ],
+  "appointments": [
+    {
+      "$oid": "6042591d85289e806f752941"
+    },
+    {
+      "$oid": "60434e29789ec3897a17add1"
+    },
+    {
+      "$oid": "60460296ee3671986bba084c"
+    },
+    {
+      "$oid": "60468c1995b8e0adb040a5c4"
+    },
+    {
+      "$oid": "604697e89b2515b10705c5a7"
+    },
+    {
+      "$oid": "60473027fe19503d6520090d"
+    },
+    {
+      "$oid": "60477da147bd7f1ab56bf919"
+    },
+    {
+      "$oid": "6047877b85601200ef984ac7"
+    },
+    {
+      "$oid": "6047ab83962c60077c03b609"
+    },
+    {
+      "$oid": "6047b88dc3d4210cf7b20ebc"
+    },
+    {
+      "$oid": "6048887b1e091128c04711e0"
+    },
+    {
+      "$oid": "6059cea25582144500feffe9"
+    },
+    {
+      "$oid": "605b4dff7ac292c178d285fb"
+    }
+  ],
+  "shopName": "Au Bonheur des Cheveux",
+  "shopAddress": "2 Rue Jouve, 13007 Marseille, France",
+  "shopPhone": "0500069800",
+  "shopMail": "auBonheur@gmail.com",
+  "shopDescription": "Messieurs, si vous êtes à la recherche du barber idéal pour s’occuper de vos cheveux ou prendre soin de votre barbe, nous avons l’adresse qu’il vous faut.",
+  "offers": [
+    {
+      "_id": {
+        "$oid": "603e4da20c2ea9418ce67b26"
+      },
+      "type": "COUPE HOMME",
+      "price": 50,
+      "duration": 30
+    },
+    {
+      "_id": {
+        "$oid": "603e4da20c2ea9418ce67b27"
+      },
+      "type": "COUPE FEMME",
+      "price": 70,
+      "duration": 45
+    },
+    {
+      "_id": {
+        "$oid": "603e4da20c2ea9418ce67b28"
+      },
+      "type": "COUPE HOMME COLORATION",
+      "price": 70,
+      "duration": 60
+    },
+    {
+      "_id": {
+        "$oid": "603e4da20c2ea9418ce67b29"
+      },
+      "type": "COUPE FEMME COLORATION",
+      "price": 100,
+      "duration": 90
+    }
+  ],
+  "packages": [
+    {
+      "_id": {
+        "$oid": "603e4da20c2ea9418ce67b2a"
+      },
+      "type": "APERO COIF",
+      "price": 60,
+      "duration": 120,
+      "description": "Réserve avec tes amis et profite d'un apéro en te faisant coiffer avant ta soirée. Deux coktails inclus.  "
+    },
+    {
+      "_id": {
+        "$oid": "603e4da20c2ea9418ce67b2b"
+      },
+      "type": "PLAY HARD CUT HARD",
+      "price": 70,
+      "duration": 60,
+      "description": "Tu as l’impression de perdre ton temps chez le coiffeur ? C’est terminé ! Joue en réseau avec tes amis sur playstation tout en te faisant coiffer. "
+    }
+  ],
+  "schedule": [
+    {
+      "_id": {
+        "$oid": "603e4da20c2ea9418ce67b2c"
+      },
+      "dayOfTheWeek": "Monday",
+      "openingHours": 600,
+      "closingHours": 900
+    },
+    {
+      "_id": {
+        "$oid": "603e4da20c2ea9418ce67b2d"
+      },
+      "dayOfTheWeek": "Tuesday",
+      "openingHours": 600,
+      "closingHours": 1140
+    },
+    {
+      "_id": {
+        "$oid": "603e4da20c2ea9418ce67b2e"
+      },
+      "dayOfTheWeek": "Wednesday",
+      "openingHours": 600,
+      "closingHours": 1140
+    },
+    {
+      "_id": {
+        "$oid": "603e4da20c2ea9418ce67b2f"
+      },
+      "dayOfTheWeek": "Thursday",
+      "openingHours": 600,
+      "closingHours": 1140
+    },
+    {
+      "_id": {
+        "$oid": "603e4da20c2ea9418ce67b30"
+      },
+      "dayOfTheWeek": "Friday",
+      "openingHours": 600,
+      "closingHours": 1140
+    },
+    {
+      "_id": {
+        "$oid": "603e4da20c2ea9418ce67b31"
+      },
+      "dayOfTheWeek": "Saturday",
+      "openingHours": 600,
+      "closingHours": 1200
+    },
+    {
+      "_id": {
+        "$oid": "603e4da20c2ea9418ce67b32"
+      },
+      "dayOfTheWeek": "Sunday",
+      "openingHours": 600,
+      "closingHours": 900
+    }
+  ],
+  "atHome": false,
+  "__v": 2,
+  "rating": 4.142856857142857,
+  "priceFork": 3,
+  "latitude": 43.2870925,
+  "longitude": 5.3557931
+},{
+  "_id": {
+    "$oid": "603e507954a08941e70f0a48"
+  },
+  "shopImages": [
+    "https://images.pexels.com/photos/794064/pexels-photo-794064.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    "https://images.pexels.com/photos/2126165/pexels-photo-2126165.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    "https://images.pexels.com/photos/4969838/pexels-photo-4969838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  ],
+  "shopFeatures": [
+    "coffee",
+    "wheelchair-alt",
+    "leaf"
+  ],
+  "comments": [
+    {
+      "$oid": "6040a90259ad8ead3ccf8116"
+    },
+    {
+      "$oid": "6040a9c9d91931ad8bac5c16"
+    },
+    {
+      "$oid": "6040ac75ac3435adb18d6df9"
+    },
+    {
+      "$oid": "604106ac290de4dbf3f71069"
+    },
+    {
+      "$oid": "6041080269985f2fb99209d1"
+    },
+    {
+      "$oid": "60410908290de4dbf3f7106a"
+    },
+    {
+      "$oid": "6058e05430cee3a9245f008b"
+    }
+  ],
+  "shopEmployees": [
+    "Rafael"
+  ],
+  "appointments": [
+    {
+      "$oid": "603f61fe67afbb67e80642e2"
+    },
+    {
+      "$oid": "603f7dba67afbb67e80642e3"
+    },
+    {
+      "$oid": "604258a585289e806f752940"
+    },
+    {
+      "$oid": "604263dd72ae39824566b74a"
+    },
+    {
+      "$oid": "6045efa71272940dcc9b052d"
+    },
+    {
+      "$oid": "6045fcf31272940dcc9b052e"
+    },
+    {
+      "$oid": "604602a71272940dcc9b0530"
+    },
+    {
+      "$oid": "6046103f8065441d356cc2e5"
+    },
+    {
+      "$oid": "604654745c20153123af5d3a"
+    },
+    {
+      "$oid": "6047a33b8d4bbc0614481780"
+    },
+    {
+      "$oid": "6047abc4aec96d3a442f13b8"
+    },
+    {
+      "$oid": "6055ca3e3b89f57ac0fe9a27"
+    },
+    {
+      "$oid": "6055ca863b89f57ac0fe9a28"
+    },
+    {
+      "$oid": "6055ca953b89f57ac0fe9a29"
+    },
+    {
+      "$oid": "6055cb063b89f57ac0fe9a2a"
+    },
+    {
+      "$oid": "6055cec13b89f57ac0fe9a2b"
+    }
+  ],
+  "shopName": "Chez Raf",
+  "shopAddress": "27 Rue Chapon, 75003 Paris, France",
+  "shopPhone": "0134567890",
+  "shopMail": "chezRaf@gmail.com",
+  "shopDescription": "Dans une ambiance professionnelle et chaleureuse, redécouvrez la coupe de cheveux comme jamais !",
+  "offers": [
+    {
+      "_id": {
+        "$oid": "603e507954a08941e70f0a49"
+      },
+      "type": "COUPE FEMME AFRO",
+      "price": 45,
+      "duration": 45
+    },
+    {
+      "_id": {
+        "$oid": "603e507954a08941e70f0a4a"
+      },
+      "type": "COUPE HOMME AFRO",
+      "price": 45,
+      "duration": 45
+    },
+    {
+      "_id": {
+        "$oid": "603e507954a08941e70f0a4b"
+      },
+      "type": "COUPE HOMME COLORATION",
+      "price": 60,
+      "duration": 60
+    },
+    {
+      "_id": {
+        "$oid": "603e507954a08941e70f0a4c"
+      },
+      "type": "COUPE FEMME COLORATION",
+      "price": 60,
+      "duration": 60
+    },
+    {
+      "_id": {
+        "$oid": "603e507954a08941e70f0a4d"
+      },
+      "type": "COUPE FEMME PERMANENTE",
+      "price": 75,
+      "duration": 120
+    }
+  ],
+  "packages": [
+    {
+      "_id": {
+        "$oid": "603e507954a08941e70f0a4e"
+      },
+      "type": "MOMENT A DEUX",
+      "price": 100,
+      "duration": 60,
+      "description": "Partager un moment à détente à deux. Inclus : deux coupes adultes, une bouteille de champagne à partager "
+    },
+    {
+      "_id": {
+        "$oid": "603e507954a08941e70f0a4f"
+      },
+      "type": "BIEN ETRE",
+      "price": 50,
+      "duration": 45,
+      "description": "Profitez d'un moment de détente : shampoing, massage de tête et pédicure"
+    }
+  ],
+  "schedule": [
+    {
+      "_id": {
+        "$oid": "603e507954a08941e70f0a50"
+      },
+      "dayOfTheWeek": "Tuesday",
+      "openingHours": 600,
+      "closingHours": 1080
+    },
+    {
+      "_id": {
+        "$oid": "603e507954a08941e70f0a51"
+      },
+      "dayOfTheWeek": "Wednesday",
+      "openingHours": 600,
+      "closingHours": 1080
+    },
+    {
+      "_id": {
+        "$oid": "603e507954a08941e70f0a52"
+      },
+      "dayOfTheWeek": "Thursday",
+      "openingHours": 600,
+      "closingHours": 1080
+    },
+    {
+      "_id": {
+        "$oid": "603e507954a08941e70f0a53"
+      },
+      "dayOfTheWeek": "Friday",
+      "openingHours": 600,
+      "closingHours": 1080
+    },
+    {
+      "_id": {
+        "$oid": "603e507954a08941e70f0a54"
+      },
+      "dayOfTheWeek": "Saturday",
+      "openingHours": 600,
+      "closingHours": 1200
+    }
+  ],
+  "atHome": false,
+  "__v": 4,
+  "rating": 3.4285714285714284,
+  "priceFork": 3,
+  "latitude": 48.863786,
+  "longitude": 2.3545468
+},{
+  "_id": {
+    "$oid": "6046243145642029802662e7"
+  },
+  "shopImages": [
+    "https://images.unsplash.com/photo-1562322140-8baeececf3df?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+    "https://images.unsplash.com/photo-1559599101-f09722fb4948?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80"
+  ],
+  "shopFeatures": [
+    "coffee",
+    "wheelchair-alt",
+    "leaf"
+  ],
+  "comments": [
+    {
+      "$oid": "604756944ae790ecc0e3076a"
+    },
+    {
+      "$oid": "605a0b1223f33cd7e02870eb"
+    },
+    {
+      "$oid": "605b4e147ac292c178d285fc"
+    }
+  ],
+  "shopEmployees": [
+    "Mathilde"
+  ],
+  "appointments": [
+    {
+      "$oid": "60464b135c20153123af5d30"
+    },
+    {
+      "$oid": "604651055c20153123af5d37"
+    },
+    {
+      "$oid": "60474351d90d4c0f200e6242"
+    },
+    {
+      "$oid": "6047563c4ae790ecc0e30769"
+    },
+    {
+      "$oid": "6047aa73962c60077c03b608"
+    },
+    {
+      "$oid": "6047abccefea257d71e91dde"
+    },
+    {
+      "$oid": "6048a1502d95ce0953931760"
+    },
+    {
+      "$oid": "6055f6303b89f57ac0fe9a2c"
+    },
+    {
+      "$oid": "6056005d3b89f57ac0fe9a2e"
+    },
+    {
+      "$oid": "6058ae3730cee3a9245f0082"
+    },
+    {
+      "$oid": "6058beec30cee3a9245f0088"
+    }
+  ],
+  "shopName": "Chez Mathilde",
+  "shopAddress": "108 Rue du Faubourg du Temple, 75011 Paris, France",
+  "shopPhone": "0142586743",
+  "shopMail": "chezMathilde@gmail.com",
+  "shopDescription": "A la recherche d'un coiffure fun et éthique à la fois ! Mathilde prendra soin de vous et de vous cheveux, avec ses produits bio maison que vous ne trouverez nul part ailleurs ! Un salon féministe réservée aux femmes !",
+  "offers": [
+    {
+      "_id": {
+        "$oid": "6046243145642029802662e8"
+      },
+      "type": "COUPE FEMME",
+      "price": 50,
+      "duration": 45
+    },
+    {
+      "_id": {
+        "$oid": "6046243145642029802662e9"
+      },
+      "type": "COUPE FEMME COLORATION",
+      "price": 70,
+      "duration": 60
+    },
+    {
+      "_id": {
+        "$oid": "6046243145642029802662ea"
+      },
+      "type": "COUPE FEMME AFRO",
+      "price": 50,
+      "duration": 45
+    },
+    {
+      "_id": {
+        "$oid": "6046243145642029802662eb"
+      },
+      "type": "COUPE FEMME BALAYAGE",
+      "price": 70,
+      "duration": 60
+    },
+    {
+      "_id": {
+        "$oid": "6046243145642029802662ec"
+      },
+      "type": "COUPE FEMME PERMANENTE",
+      "price": 90,
+      "duration": 90
+    }
+  ],
+  "packages": [
+    {
+      "_id": {
+        "$oid": "6046243145642029802662ed"
+      },
+      "type": "BIEN ETRE",
+      "price": 120,
+      "duration": 90,
+      "description": "Profitez d'un moment de détente : shampoing, massage de tête et pédicure"
+    }
+  ],
+  "schedule": [
+    {
+      "_id": {
+        "$oid": "6046243145642029802662ee"
+      },
+      "dayOfTheWeek": "Monday",
+      "openingHours": 600,
+      "closingHours": 1140
+    },
+    {
+      "_id": {
+        "$oid": "6046243145642029802662ef"
+      },
+      "dayOfTheWeek": "Tuesday",
+      "openingHours": 600,
+      "closingHours": 1140
+    },
+    {
+      "_id": {
+        "$oid": "6046243145642029802662f0"
+      },
+      "dayOfTheWeek": "Wednesday",
+      "openingHours": 600,
+      "closingHours": 1140
+    },
+    {
+      "_id": {
+        "$oid": "6046243145642029802662f1"
+      },
+      "dayOfTheWeek": "Thursday",
+      "openingHours": 600,
+      "closingHours": 1140
+    },
+    {
+      "_id": {
+        "$oid": "6046243145642029802662f2"
+      },
+      "dayOfTheWeek": "Friday",
+      "openingHours": 600,
+      "closingHours": 1140
+    },
+    {
+      "_id": {
+        "$oid": "6046243145642029802662f3"
+      },
+      "dayOfTheWeek": "Saturday",
+      "openingHours": 600,
+      "closingHours": 1140
+    }
+  ],
+  "atHome": true,
+  "rating": 5,
+  "latitude": 48.8713911,
+  "longitude": 2.3755384,
+  "__v": 0,
+  "priceFork": 2
+},{
+  "_id": {
+    "$oid": "60462934f033382ac3c90f76"
+  },
+  "shopImages": [
+    "https://images.unsplash.com/photo-1599351430140-c70f0250bd70?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+    "https://images.unsplash.com/photo-1589900216439-595aeac3af8a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1498&q=80",
+    "https://images.unsplash.com/photo-1598887142809-6940310171f6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+    "https://images.unsplash.com/photo-1561713421-e45605fba2bc?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80"
+  ],
+  "shopFeatures": [
+    "coffee",
+    "wheelchair-alt",
+    "glass",
+    "paw"
+  ],
+  "comments": [
+    {
+      "$oid": "60476263c017e978401bf9df"
+    },
+    {
+      "$oid": "6059f2fb25d69ead54ff89dc"
+    }
+  ],
+  "shopEmployees": [
+    "Jean-Claude",
+    "Edgard",
+    "Elisabeth"
+  ],
+  "appointments": [
+    {
+      "$oid": "604654545c20153123af5d39"
+    },
+    {
+      "$oid": "604761d1c017e978401bf9de"
+    },
+    {
+      "$oid": "6047a599f6cbfc5a584c0b76"
+    },
+    {
+      "$oid": "6057940f5810e3989455a28c"
+    },
+    {
+      "$oid": "6058aefb30cee3a9245f0083"
+    },
+    {
+      "$oid": "605a0a3bd35a75e3d4a305c2"
+    }
+  ],
+  "shopName": "Jean Claude",
+  "shopAddress": "69 Rue Saint-Honoré, 75001 Paris, France",
+  "shopPhone": "0656478978",
+  "shopMail": "JCAcademy@gmail.com",
+  "shopDescription": "En plein cœur du premier arrondissement de Paris, entre Les Halles et la rue de Rivoli, le salon de coiffure Jean Claude Aubry Academy Paris vous ouvre ses portes pour vous faire passer un véritable moment de détente dans un cadre chaleureux et convivial.",
+  "offers": [
+    {
+      "_id": {
+        "$oid": "60462934f033382ac3c90f77"
+      },
+      "type": "COUPE FEMME",
+      "price": 35,
+      "duration": 30
+    },
+    {
+      "_id": {
+        "$oid": "60462934f033382ac3c90f78"
+      },
+      "type": "COUPE HOMME",
+      "price": 30,
+      "duration": 30
+    },
+    {
+      "_id": {
+        "$oid": "60462934f033382ac3c90f79"
+      },
+      "type": "COUPE FEMME AFRO",
+      "price": 40,
+      "duration": 45
+    },
+    {
+      "_id": {
+        "$oid": "60462934f033382ac3c90f7a"
+      },
+      "type": "COUPE HOMME + BARBE",
+      "price": 35,
+      "duration": 45
+    },
+    {
+      "_id": {
+        "$oid": "60462934f033382ac3c90f7b"
+      },
+      "type": "COUPE HOMME AFRO",
+      "price": 40,
+      "duration": 45
+    },
+    {
+      "_id": {
+        "$oid": "60462934f033382ac3c90f7c"
+      },
+      "type": "COUPE FEMME PERMANENTE",
+      "price": 60,
+      "duration": 90
+    }
+  ],
+  "packages": [
+    {
+      "_id": {
+        "$oid": "60462934f033382ac3c90f7d"
+      },
+      "type": "BIEN ETRE",
+      "price": 100,
+      "duration": 90,
+      "description": "Profitez d'un moment de détente : shampoing, massage de tête et pédicure"
+    },
+    {
+      "_id": {
+        "$oid": "60462934f033382ac3c90f7e"
+      },
+      "type": "MOMENT A DEUX",
+      "price": 90,
+      "duration": 45,
+      "description": "Partager un moment à détente à deux. Inclus : deux coupes adultes, une bouteille de champagne à partager"
+    },
+    {
+      "_id": {
+        "$oid": "60462934f033382ac3c90f7f"
+      },
+      "type": "PLAY HARD CUT HARD",
+      "price": 50,
+      "duration": 60,
+      "description": "Tu as l’impression de perdre ton temps chez le coiffeur ? C’est terminé ! Joue en réseau avec tes amis sur playstation tout en te faisant coiffer. "
+    }
+  ],
+  "schedule": [
+    {
+      "_id": {
+        "$oid": "60462934f033382ac3c90f80"
+      },
+      "dayOfTheWeek": "Monday",
+      "openingHours": 840,
+      "closingHours": 1200
+    },
+    {
+      "_id": {
+        "$oid": "60462934f033382ac3c90f81"
+      },
+      "dayOfTheWeek": "Tuesday",
+      "openingHours": 840,
+      "closingHours": 1200
+    },
+    {
+      "_id": {
+        "$oid": "60462934f033382ac3c90f82"
+      },
+      "dayOfTheWeek": "Wednesday",
+      "openingHours": 840,
+      "closingHours": 1200
+    },
+    {
+      "_id": {
+        "$oid": "60462934f033382ac3c90f83"
+      },
+      "dayOfTheWeek": "Thursday",
+      "openingHours": 840,
+      "closingHours": 1200
+    },
+    {
+      "_id": {
+        "$oid": "60462934f033382ac3c90f84"
+      },
+      "dayOfTheWeek": "Friday",
+      "openingHours": 840,
+      "closingHours": 1200
+    },
+    {
+      "_id": {
+        "$oid": "60462934f033382ac3c90f85"
+      },
+      "dayOfTheWeek": "Saturday",
+      "openingHours": 600,
+      "closingHours": 1200
+    },
+    {
+      "_id": {
+        "$oid": "60462934f033382ac3c90f86"
+      },
+      "dayOfTheWeek": "Sunday",
+      "openingHours": 600,
+      "closingHours": 960
+    }
+  ],
+  "atHome": true,
+  "rating": 3,
+  "latitude": 48.86103820800781,
+  "longitude": 2.344921350479126,
+  "__v": 0,
+  "priceFork": 1
+},{
+  "_id": {
+    "$oid": "60462c043b60182b24ca7a46"
+  },
+  "shopImages": [
+    "https://images.unsplash.com/photo-1556755140-0f888d10a966?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+    "https://images.unsplash.com/photo-1590540180006-36971c22e35c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+    "https://images.unsplash.com/photo-1542940763-af472da7199a?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1718&q=80",
+    "https://images.unsplash.com/photo-1611431182782-cb1f5acd6e94?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1462&q=80"
+  ],
+  "shopFeatures": [
+    "coffee",
+    "wheelchair-alt",
+    "leaf",
+    "paw"
+  ],
+  "comments": [
+    {
+      "$oid": "60475c92c017e978401bf9da"
+    }
+  ],
+  "shopEmployees": [
+    "Olivier",
+    "Rachel"
+  ],
+  "appointments": [
+    {
+      "$oid": "60472af0fe19503d6520090a"
+    },
+    {
+      "$oid": "604756c64ae790ecc0e3076b"
+    },
+    {
+      "$oid": "6047b616f6cbfc5a584c0b7c"
+    },
+    {
+      "$oid": "6058b19b30cee3a9245f0084"
+    },
+    {
+      "$oid": "6058b5f130cee3a9245f0085"
+    }
+  ],
+  "shopName": "Olive Hair Line",
+  "shopAddress": "3 Rue des Prouvaires, 75001 Paris, France",
+  "shopPhone": "0145342678",
+  "shopMail": "olive.hairline@gmail.com",
+  "shopDescription": "Salon indépendant avec exposition permanente d’artistes. Dans une déco aux couleurs sobres, l’équipe du salon de coiffure vous accueillera très chaleureusement. Ici, plus qu’un salon, c’est un lieu de partage calme et tranquille où l’on vient se dépayser le temps d’une coiffure. ",
+  "offers": [
+    {
+      "_id": {
+        "$oid": "60462c043b60182b24ca7a47"
+      },
+      "type": "COUPE FEMME",
+      "price": 60,
+      "duration": 30
+    },
+    {
+      "_id": {
+        "$oid": "60462c043b60182b24ca7a48"
+      },
+      "type": "COUPE HOMME",
+      "price": 50,
+      "duration": 30
+    },
+    {
+      "_id": {
+        "$oid": "60462c043b60182b24ca7a49"
+      },
+      "type": "COUPE FEMME AFRO",
+      "price": 60,
+      "duration": 30
+    },
+    {
+      "_id": {
+        "$oid": "60462c043b60182b24ca7a4a"
+      },
+      "type": "COUPE HOMME + BARBE",
+      "price": 70,
+      "duration": 45
+    },
+    {
+      "_id": {
+        "$oid": "60462c043b60182b24ca7a4b"
+      },
+      "type": "COUPE HOMME AFRO",
+      "price": 60,
+      "duration": 30
+    },
+    {
+      "_id": {
+        "$oid": "60462c043b60182b24ca7a4c"
+      },
+      "type": "COUPE FEMME COLORATION",
+      "price": 90,
+      "duration": 60
+    }
+  ],
+  "packages": [
+    {
+      "_id": {
+        "$oid": "60462c043b60182b24ca7a4d"
+      },
+      "type": "BIEN ETRE",
+      "price": 100,
+      "duration": 60,
+      "description": "Profitez d'un moment de détente : shampoing, massage de tête et pédicure"
+    },
+    {
+      "_id": {
+        "$oid": "60462c043b60182b24ca7a4e"
+      },
+      "type": "PLAY HARD CUT HARD",
+      "price": 70,
+      "duration": 45,
+      "description": "Partager un moment à détente à deux. Inclus : deux coupes adultes, une bouteille de champagne à partager"
+    }
+  ],
+  "schedule": [
+    {
+      "_id": {
+        "$oid": "60462c043b60182b24ca7a4f"
+      },
+      "dayOfTheWeek": "Wednesday",
+      "openingHours": 600,
+      "closingHours": 1200
+    },
+    {
+      "_id": {
+        "$oid": "60462c043b60182b24ca7a50"
+      },
+      "dayOfTheWeek": "Thursday",
+      "openingHours": 600,
+      "closingHours": 1200
+    },
+    {
+      "_id": {
+        "$oid": "60462c043b60182b24ca7a51"
+      },
+      "dayOfTheWeek": "Friday",
+      "openingHours": 600,
+      "closingHours": 1200
+    },
+    {
+      "_id": {
+        "$oid": "60462c043b60182b24ca7a52"
+      },
+      "dayOfTheWeek": "Saturday",
+      "openingHours": 660,
+      "closingHours": 1260
+    },
+    {
+      "_id": {
+        "$oid": "60462c043b60182b24ca7a53"
+      },
+      "dayOfTheWeek": "Sunday",
+      "openingHours": 600,
+      "closingHours": 1260
+    }
+  ],
+  "atHome": false,
+  "rating": 2,
+  "latitude": 48.861488342285156,
+  "longitude": 2.344163417816162,
+  "__v": 0,
+  "priceFork": 2
+},{
+  "_id": {
+    "$oid": "60462f397b02b72bfe3a30a7"
+  },
+  "shopImages": [
+    "https://images.unsplash.com/photo-1582095133179-bfd08e2fc6b3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80"
+  ],
+  "shopFeatures": [
+    "leaf",
+    "wheelchair-alt"
+  ],
+  "comments": [
+    {
+      "$oid": "60474c9ad90d4c0f200e6245"
+    }
+  ],
+  "shopEmployees": [
+    "Sofia",
+    "Anna"
+  ],
+  "appointments": [
+    {
+      "$oid": "60464f675c20153123af5d34"
+    },
+    {
+      "$oid": "6047220bfe19503d65200905"
+    },
+    {
+      "$oid": "604740598e5348381c7082ff"
+    },
+    {
+      "$oid": "6058bf5e30cee3a9245f0089"
+    }
+  ],
+  "shopName": "Salon Sofia",
+  "shopAddress": "117 Rue Damrémont, 75018 Paris, France",
+  "shopPhone": "0112345678",
+  "shopMail": "salonsofia@gmail.com",
+  "shopDescription": "Bienvenue dans le nouveau salon de coiffure, Salon Sofia ! Installée dans le 18ème arrondissement de Paris, station de métro Porte de Clignancourt sur la ligne 4.",
+  "offers": [
+    {
+      "_id": {
+        "$oid": "60462f397b02b72bfe3a30a8"
+      },
+      "type": "COUPE FEMME",
+      "price": 80,
+      "duration": 45
+    },
+    {
+      "_id": {
+        "$oid": "60462f397b02b72bfe3a30a9"
+      },
+      "type": "COUPE HOMME",
+      "price": 70,
+      "duration": 30
+    },
+    {
+      "_id": {
+        "$oid": "60462f397b02b72bfe3a30aa"
+      },
+      "type": "COUPE FEMME AFRO",
+      "price": 80,
+      "duration": 45
+    },
+    {
+      "_id": {
+        "$oid": "60462f397b02b72bfe3a30ab"
+      },
+      "type": "COUPE FEMME COLORATION",
+      "price": 110,
+      "duration": 60
+    },
+    {
+      "_id": {
+        "$oid": "60462f397b02b72bfe3a30ac"
+      },
+      "type": "COUPE FEMME PERMANENTE",
+      "price": 130,
+      "duration": 90
+    },
+    {
+      "_id": {
+        "$oid": "60462f397b02b72bfe3a30ad"
+      },
+      "type": "COUPE FEMME BALAYAGE",
+      "price": 110,
+      "duration": 60
+    }
+  ],
+  "packages": [
+    {
+      "_id": {
+        "$oid": "60462f397b02b72bfe3a30ae"
+      },
+      "type": "BIEN ETRE",
+      "price": 100,
+      "duration": 60,
+      "description": "Profitez d'un moment de détente : shampoing, massage de tête et pédicure"
+    },
+    {
+      "_id": {
+        "$oid": "60462f397b02b72bfe3a30af"
+      },
+      "type": "MOMENT A DEUX",
+      "price": 150,
+      "duration": 60,
+      "description": "Partager un moment à détente à deux. Inclus : deux coupes adultes, une bouteille de champagne à partager"
+    }
+  ],
+  "schedule": [
+    {
+      "_id": {
+        "$oid": "60462f397b02b72bfe3a30b0"
+      },
+      "dayOfTheWeek": "Monday",
+      "openingHours": 600,
+      "closingHours": 1080
+    },
+    {
+      "_id": {
+        "$oid": "60462f397b02b72bfe3a30b1"
+      },
+      "dayOfTheWeek": "Thursday",
+      "openingHours": 600,
+      "closingHours": 1080
+    },
+    {
+      "_id": {
+        "$oid": "60462f397b02b72bfe3a30b2"
+      },
+      "dayOfTheWeek": "Friday",
+      "openingHours": 600,
+      "closingHours": 1080
+    },
+    {
+      "_id": {
+        "$oid": "60462f397b02b72bfe3a30b3"
+      },
+      "dayOfTheWeek": "Saturday",
+      "openingHours": 600,
+      "closingHours": 1200
+    },
+    {
+      "_id": {
+        "$oid": "60462f397b02b72bfe3a30b4"
+      },
+      "dayOfTheWeek": "Sunday",
+      "openingHours": 540,
+      "closingHours": 720
+    }
+  ],
+  "atHome": true,
+  "rating": 5,
+  "latitude": 48.89583969116211,
+  "longitude": 2.337935447692871,
+  "__v": 0,
+  "priceFork": 3
+},{
+  "_id": {
+    "$oid": "604630ba5bdf192c5c491509"
+  },
+  "shopImages": [
+    "https://images.unsplash.com/photo-1597145129882-648f26e494a3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+    "https://images.unsplash.com/photo-1581094876023-a7827d3c146e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1502&q=80"
+  ],
+  "shopFeatures": [
+    "coffee",
+    "wheelchair-alt"
+  ],
+  "comments": [
+    {
+      "$oid": "6047601bc017e978401bf9db"
+    }
+  ],
+  "shopEmployees": [
+    "Arnaud",
+    "Antoine"
+  ],
+  "appointments": [
+    {
+      "$oid": "60464bc95c20153123af5d31"
+    },
+    {
+      "$oid": "60472381fe19503d65200906"
+    },
+    {
+      "$oid": "604884ed558356102eee5387"
+    },
+    {
+      "$oid": "60578f235810e3989455a28b"
+    },
+    {
+      "$oid": "6059e4e5106f20c6c0dfca1c"
+    },
+    {
+      "$oid": "605a070f9e28ae41f81c2ed2"
+    }
+  ],
+  "shopName": "Ac'Tif",
+  "shopAddress": "9 Rue Chanez, 75016 Paris, France",
+  "shopPhone": "0126754634",
+  "shopMail": "actif@gmail.com",
+  "shopDescription": "Situé près de la station Porte d'Auteuil métro ligne 10, venez découvrir ce salon de coiffure intime au style moderne et à l'ambiance familiale. Ouvert depuis dix ans, ce salon est composé d'une équipe de trois coiffeurs expérimentés et accueillants qui feront tout pour réaliser une prestation à la hauteur de vos attentes.",
+  "offers": [
+    {
+      "_id": {
+        "$oid": "604630ba5bdf192c5c49150a"
+      },
+      "type": "COUPE FEMME",
+      "price": 80,
+      "duration": 45
+    },
+    {
+      "_id": {
+        "$oid": "604630ba5bdf192c5c49150b"
+      },
+      "type": "COUPE HOMME",
+      "price": 70,
+      "duration": 30
+    },
+    {
+      "_id": {
+        "$oid": "604630ba5bdf192c5c49150c"
+      },
+      "type": "COUPE FEMME AFRO",
+      "price": 80,
+      "duration": 45
+    },
+    {
+      "_id": {
+        "$oid": "604630ba5bdf192c5c49150d"
+      },
+      "type": "COUPE FEMME COLORATION",
+      "price": 110,
+      "duration": 60
+    },
+    {
+      "_id": {
+        "$oid": "604630ba5bdf192c5c49150e"
+      },
+      "type": "COUPE FEMME PERMANENTE",
+      "price": 130,
+      "duration": 90
+    },
+    {
+      "_id": {
+        "$oid": "604630ba5bdf192c5c49150f"
+      },
+      "type": "COUPE FEMME BALAYAGE",
+      "price": 110,
+      "duration": 60
+    }
+  ],
+  "packages": [
+    {
+      "_id": {
+        "$oid": "604630ba5bdf192c5c491510"
+      },
+      "type": "PLAY HARD CUT HARD",
+      "price": 90,
+      "duration": 60,
+      "description": "Tu as l’impression de perdre ton temps chez le coiffeur ? C’est terminé ! Joue en réseau avec tes amis sur playstation tout en te faisant coiffer. "
+    },
+    {
+      "_id": {
+        "$oid": "604630ba5bdf192c5c491511"
+      },
+      "type": "MOMENT A DEUX",
+      "price": 150,
+      "duration": 60,
+      "description": "Partager un moment à détente à deux. Inclus : deux coupes adultes, une bouteille de champagne à partager"
+    },
+    {
+      "_id": {
+        "$oid": "604630ba5bdf192c5c491512"
+      },
+      "type": "APERO COIF",
+      "price": 70,
+      "duration": 60,
+      "description": "Réserve avec tes amis et profite d'un apéro en te faisant coiffer avant ta soirée. Deux coktails inclus. "
+    }
+  ],
+  "schedule": [
+    {
+      "_id": {
+        "$oid": "604630ba5bdf192c5c491513"
+      },
+      "dayOfTheWeek": "Monday",
+      "openingHours": 600,
+      "closingHours": 1080
+    },
+    {
+      "_id": {
+        "$oid": "604630ba5bdf192c5c491514"
+      },
+      "dayOfTheWeek": "Tuesday",
+      "openingHours": 600,
+      "closingHours": 1200
+    },
+    {
+      "_id": {
+        "$oid": "604630ba5bdf192c5c491515"
+      },
+      "dayOfTheWeek": "Wednesday",
+      "openingHours": 600,
+      "closingHours": 1200
+    },
+    {
+      "_id": {
+        "$oid": "604630ba5bdf192c5c491516"
+      },
+      "dayOfTheWeek": "Saturday",
+      "openingHours": 600,
+      "closingHours": 1200
+    },
+    {
+      "_id": {
+        "$oid": "604630ba5bdf192c5c491517"
+      },
+      "dayOfTheWeek": "Sunday",
+      "openingHours": 540,
+      "closingHours": 720
+    }
+  ],
+  "atHome": true,
+  "rating": 4,
+  "latitude": 48.84661865234375,
+  "longitude": 2.259507417678833,
+  "__v": 0,
+  "priceFork": 3
+},{
+  "_id": {
+    "$oid": "604637d452a9562dd2b26d89"
+  },
+  "shopImages": [
+    "https://images.unsplash.com/photo-1577277495116-54aab6771af5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80",
+    "https://images.unsplash.com/photo-1614838000027-76439aa4aedc?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1650&q=80"
+  ],
+  "shopFeatures": [
+    "glass",
+    "gamepad"
+  ],
+  "comments": [
+    {
+      "$oid": "60474c73d90d4c0f200e6243"
+    }
+  ],
+  "shopEmployees": [
+    "Laure",
+    "Lisa"
+  ],
+  "appointments": [
+    {
+      "$oid": "604742aef8cd3e4b6e1ae868"
+    },
+    {
+      "$oid": "605775f45810e3989455a288"
+    }
+  ],
+  "shopName": "Crea'Tif",
+  "shopAddress": "325 Rue de Vaugirard, 75015 Paris, France",
+  "shopPhone": "0189765845",
+  "shopMail": "creatif@gmail.com",
+  "shopDescription": "Nous mettons à votre service toutes nos compétences, notre savoir-faire et nos précieux conseils personnalisés, afin de vous guider vers les soins qui vous correspondent. ",
+  "offers": [
+    {
+      "_id": {
+        "$oid": "604637d452a9562dd2b26d8a"
+      },
+      "type": "COUPE HOMME AFRO",
+      "price": 50,
+      "duration": 30
+    },
+    {
+      "_id": {
+        "$oid": "604637d452a9562dd2b26d8b"
+      },
+      "type": "COUPE FEMME BALAYAGE",
+      "price": 60,
+      "duration": 45
+    },
+    {
+      "_id": {
+        "$oid": "604637d452a9562dd2b26d8c"
+      },
+      "type": "COUPE FEMME AFRO",
+      "price": 50,
+      "duration": 30
+    },
+    {
+      "_id": {
+        "$oid": "604637d452a9562dd2b26d8d"
+      },
+      "type": "COUPE HOMME",
+      "price": 30,
+      "duration": 30
+    },
+    {
+      "_id": {
+        "$oid": "604637d452a9562dd2b26d8e"
+      },
+      "type": "COUPE FEMME",
+      "price": 40,
+      "duration": 60
+    }
+  ],
+  "packages": [
+    {
+      "_id": {
+        "$oid": "604637d452a9562dd2b26d8f"
+      },
+      "type": "APERO COIF",
+      "price": 90,
+      "duration": 60,
+      "description": "Réserve avec tes amis et profite d'un apéro en te faisant coiffer avant ta soirée. Deux coktails inclus. "
+    }
+  ],
+  "schedule": [
+    {
+      "_id": {
+        "$oid": "604637d452a9562dd2b26d90"
+      },
+      "dayOfTheWeek": "Monday",
+      "openingHours": 600,
+      "closingHours": 1080
+    },
+    {
+      "_id": {
+        "$oid": "604637d452a9562dd2b26d91"
+      },
+      "dayOfTheWeek": "Tuesday",
+      "openingHours": 600,
+      "closingHours": 1080
+    },
+    {
+      "_id": {
+        "$oid": "604637d452a9562dd2b26d92"
+      },
+      "dayOfTheWeek": "Wednesday",
+      "openingHours": 600,
+      "closingHours": 1080
+    },
+    {
+      "_id": {
+        "$oid": "604637d452a9562dd2b26d93"
+      },
+      "dayOfTheWeek": "Thursday",
+      "openingHours": 600,
+      "closingHours": 1080
+    },
+    {
+      "_id": {
+        "$oid": "604637d452a9562dd2b26d94"
+      },
+      "dayOfTheWeek": "Friday",
+      "openingHours": 600,
+      "closingHours": 1080
+    },
+    {
+      "_id": {
+        "$oid": "604637d452a9562dd2b26d95"
+      },
+      "dayOfTheWeek": "Saturday",
+      "openingHours": 600,
+      "closingHours": 1200
+    }
+  ],
+  "atHome": false,
+  "rating": 4,
+  "latitude": 48.8380981,
+  "longitude": 2.2982309,
+  "__v": 0,
+  "priceFork": 1
+},{
+  "_id": {
+    "$oid": "60463d79b0b23e2eeb9735a1"
+  },
+  "shopImages": [
+    "https://images.unsplash.com/photo-1573588546512-2ace898aa480?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+    "https://images.unsplash.com/photo-1586266195531-76cfa365cb43?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+    "https://images.unsplash.com/photo-1600948836101-f9ffda59d250?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1442&q=80",
+    "https://images.unsplash.com/photo-1520336811552-42878b67d25f?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1500&q=80"
+  ],
+  "shopFeatures": [
+    "leaf",
+    "gamepad",
+    "paw"
+  ],
+  "comments": [
+    {
+      "$oid": "604760ffc017e978401bf9dd"
+    }
+  ],
+  "shopEmployees": [
+    "Clémentine",
+    "Fraise"
+  ],
+  "appointments": [
+    {
+      "$oid": "60464c855c20153123af5d32"
+    },
+    {
+      "$oid": "60469d13d76984b3ccd73c4a"
+    },
+    {
+      "$oid": "6047607ec017e978401bf9dc"
+    },
+    {
+      "$oid": "605b5fc0653e920015e04c7f"
+    }
+  ],
+  "shopName": "NJC Coiffure",
+  "shopAddress": "77 Boulevard Saint-Michel, 75005 Paris, France",
+  "shopPhone": "0190785643",
+  "shopMail": "njccoiffure@gmail.com",
+  "shopDescription": "Bien plus qu'un salon de coiffure, c'est un lieu reposant, épuré, chaleureux et où chaque objet personnalisé trouve sa place. Ce duo mère/fille collabore avec des partenaires et produits français, auxquelles elles sont particulièrement attachées, la french touch !",
+  "offers": [
+    {
+      "_id": {
+        "$oid": "60463d79b0b23e2eeb9735a2"
+      },
+      "type": "COUPE HOMME",
+      "price": 60,
+      "duration": 30
+    },
+    {
+      "_id": {
+        "$oid": "60463d79b0b23e2eeb9735a3"
+      },
+      "type": "COUPE FEMME",
+      "price": 65,
+      "duration": 45
+    },
+    {
+      "_id": {
+        "$oid": "60463d79b0b23e2eeb9735a4"
+      },
+      "type": "COUPE FEMME BALAYAGE",
+      "price": 65,
+      "duration": 60
+    },
+    {
+      "_id": {
+        "$oid": "60463d79b0b23e2eeb9735a5"
+      },
+      "type": "COUPE HOMME COLORATION",
+      "price": 60,
+      "duration": 60
+    },
+    {
+      "_id": {
+        "$oid": "60463d79b0b23e2eeb9735a6"
+      },
+      "type": "COUPE FEMME PERMANENTE",
+      "price": 70,
+      "duration": 60
+    }
+  ],
+  "packages": [
+    {
+      "_id": {
+        "$oid": "60463d79b0b23e2eeb9735a7"
+      },
+      "type": "PLAY HARD CUT HARD",
+      "price": 80,
+      "duration": 60,
+      "description": "Tu as l’impression de perdre ton temps chez le coiffeur ? C’est terminé ! Joue en réseau avec tes amis sur playstation tout en te faisant coiffer. "
+    }
+  ],
+  "schedule": [
+    {
+      "_id": {
+        "$oid": "60463d79b0b23e2eeb9735a8"
+      },
+      "dayOfTheWeek": "Monday",
+      "openingHours": 600,
+      "closingHours": 1080
+    },
+    {
+      "_id": {
+        "$oid": "60463d79b0b23e2eeb9735a9"
+      },
+      "dayOfTheWeek": "Tuesday",
+      "openingHours": 600,
+      "closingHours": 1080
+    },
+    {
+      "_id": {
+        "$oid": "60463d79b0b23e2eeb9735aa"
+      },
+      "dayOfTheWeek": "Wednesday",
+      "openingHours": 600,
+      "closingHours": 1080
+    },
+    {
+      "_id": {
+        "$oid": "60463d79b0b23e2eeb9735ab"
+      },
+      "dayOfTheWeek": "Thursday",
+      "openingHours": 600,
+      "closingHours": 1080
+    },
+    {
+      "_id": {
+        "$oid": "60463d79b0b23e2eeb9735ac"
+      },
+      "dayOfTheWeek": "Friday",
+      "openingHours": 600,
+      "closingHours": 1080
+    },
+    {
+      "_id": {
+        "$oid": "60463d79b0b23e2eeb9735ad"
+      },
+      "dayOfTheWeek": "Saturday",
+      "openingHours": 600,
+      "closingHours": 1200
+    }
+  ],
+  "atHome": false,
+  "rating": 4,
+  "latitude": 48.84511947631836,
+  "longitude": 2.3396148681640625,
+  "__v": 0,
+  "priceFork": 2
+},{
+  "_id": {
+    "$oid": "60463f2bb231502f519f5cc7"
+  },
+  "shopImages": [
+    "https://images.unsplash.com/photo-1612090136719-e71f4ed0290e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1506&q=80",
+    "https://images.unsplash.com/photo-1590678732289-537d10c3a506?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+    "https://images.unsplash.com/photo-1595475884562-073c30d45670?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1500&q=80"
+  ],
+  "shopFeatures": [
+    "wheelchair-alt",
+    "glass",
+    "coffee"
+  ],
+  "comments": [
+    {
+      "$oid": "60474d58d90d4c0f200e6247"
+    },
+    {
+      "$oid": "605600793b89f57ac0fe9a2f"
+    }
+  ],
+  "shopEmployees": [
+    "Karl",
+    "Bettany"
+  ],
+  "appointments": [
+    {
+      "$oid": "60464dc55c20153123af5d33"
+    },
+    {
+      "$oid": "60474cd0d90d4c0f200e6246"
+    },
+    {
+      "$oid": "6047ab16aec96d3a442f13b7"
+    },
+    {
+      "$oid": "604a2601310bf455d4b7b4fd"
+    },
+    {
+      "$oid": "6059ea14ae08a1d940330284"
+    }
+  ],
+  "shopName": "Ésthetique de la Paix",
+  "shopAddress": "9 Rue Mazagran, 13001 Marseille, France",
+  "shopPhone": "0456786435",
+  "shopMail": "esthetiquedelapaix@gmail.com",
+  "shopDescription": "À proximité du Vieux-Port de Marseille, venez découvrir ce joli salon de coiffure. Une ambiance familiale et chaleureuse le tout dans un décor moderne et design dans ce salon tout est réunis pour un moment détente des plus agréables.",
+  "offers": [
+    {
+      "_id": {
+        "$oid": "60463f2bb231502f519f5cc8"
+      },
+      "type": "COUPE HOMME",
+      "price": 60,
+      "duration": 30
+    },
+    {
+      "_id": {
+        "$oid": "60463f2bb231502f519f5cc9"
+      },
+      "type": "COUPE FEMME",
+      "price": 65,
+      "duration": 45
+    },
+    {
+      "_id": {
+        "$oid": "60463f2bb231502f519f5cca"
+      },
+      "type": "COUPE FEMME BALAYAGE",
+      "price": 65,
+      "duration": 60
+    },
+    {
+      "_id": {
+        "$oid": "60463f2bb231502f519f5ccb"
+      },
+      "type": "COUPE HOMME COLORATION",
+      "price": 60,
+      "duration": 60
+    },
+    {
+      "_id": {
+        "$oid": "60463f2bb231502f519f5ccc"
+      },
+      "type": "COUPE FEMME PERMANENTE",
+      "price": 70,
+      "duration": 60
+    }
+  ],
+  "packages": [
+    {
+      "_id": {
+        "$oid": "60463f2bb231502f519f5ccd"
+      },
+      "type": "PLAY HARD CUT HARD",
+      "price": 80,
+      "duration": 60,
+      "description": "Tu as l’impression de perdre ton temps chez le coiffeur ? C’est terminé ! Joue en réseau avec tes amis sur playstation tout en te faisant coiffer. "
+    },
+    {
+      "_id": {
+        "$oid": "60463f2bb231502f519f5cce"
+      },
+      "type": "MOMENT A DEUX",
+      "price": 150,
+      "duration": 60,
+      "description": "Partager un moment à détente à deux. Inclus : deux coupes adultes, une bouteille de champagne à partager"
+    },
+    {
+      "_id": {
+        "$oid": "60463f2bb231502f519f5ccf"
+      },
+      "type": "APERO COIF",
+      "price": 70,
+      "duration": 60,
+      "description": "Réserve avec tes amis et profite d'un apéro en te faisant coiffer avant ta soirée. Deux coktails inclus. "
+    }
+  ],
+  "schedule": [
+    {
+      "_id": {
+        "$oid": "60463f2bb231502f519f5cd0"
+      },
+      "dayOfTheWeek": "Monday",
+      "openingHours": 600,
+      "closingHours": 1080
+    },
+    {
+      "_id": {
+        "$oid": "60463f2bb231502f519f5cd1"
+      },
+      "dayOfTheWeek": "Tuesday",
+      "openingHours": 600,
+      "closingHours": 1080
+    },
+    {
+      "_id": {
+        "$oid": "60463f2bb231502f519f5cd2"
+      },
+      "dayOfTheWeek": "Wednesday",
+      "openingHours": 600,
+      "closingHours": 1080
+    },
+    {
+      "_id": {
+        "$oid": "60463f2bb231502f519f5cd3"
+      },
+      "dayOfTheWeek": "Thursday",
+      "openingHours": 600,
+      "closingHours": 1080
+    },
+    {
+      "_id": {
+        "$oid": "60463f2bb231502f519f5cd4"
+      },
+      "dayOfTheWeek": "Friday",
+      "openingHours": 600,
+      "closingHours": 1080
+    },
+    {
+      "_id": {
+        "$oid": "60463f2bb231502f519f5cd5"
+      },
+      "dayOfTheWeek": "Saturday",
+      "openingHours": 600,
+      "closingHours": 1200
+    }
+  ],
+  "atHome": true,
+  "rating": 4.5,
+  "latitude": 43.29705047607422,
+  "longitude": 5.381801605224609,
+  "__v": 0,
+  "priceFork": 2
+},{
+  "_id": {
+    "$oid": "604641f86f5dc52f947a5698"
+  },
+  "shopImages": [
+    "https://images.unsplash.com/photo-1541533848490-bc8115cd6522?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1500&q=80",
+    "https://images.unsplash.com/flagged/photo-1569842587338-6d1de8e498e4?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1500&q=80"
+  ],
+  "shopFeatures": [
+    "paw",
+    "gamepad",
+    "leaf"
+  ],
+  "comments": [
+    {
+      "$oid": "60474c88d90d4c0f200e6244"
+    },
+    {
+      "$oid": "6059f3b30ae841ae7c0a0e6d"
+    }
+  ],
+  "shopEmployees": [
+    "Lisa",
+    "Louis"
+  ],
+  "appointments": [
+    {
+      "$oid": "604740b45fa81e63d5a1d96a"
+    },
+    {
+      "$oid": "60487d80d8cd040f0cd47daa"
+    },
+    {
+      "$oid": "6058b62f30cee3a9245f0086"
+    },
+    {
+      "$oid": "6058b6b530cee3a9245f0087"
+    }
+  ],
+  "shopName": "Bulle De Soi",
+  "shopAddress": "65 Avenue du Maréchal Foch, 13004 Marseille, France",
+  "shopPhone": "0456786435",
+  "shopMail": "bulledesoi@gmail.com",
+  "shopDescription": "Bienvenu dans le salon Bulle De Soi, vous bénéficierez des conseils personnalisés, afin de trouver la coupe adaptée à votre visage et votre personnalité. Entre colorations éclatantes, balayages rayonnants et ombrés hair lumineux, vous aurez à votre disposition un large choix de prestations techniques qui sublimeront vos cheveux et leur redonneront tout leur éclat.",
+  "offers": [
+    {
+      "_id": {
+        "$oid": "604641f86f5dc52f947a5699"
+      },
+      "type": "COUPE HOMME",
+      "price": 70,
+      "duration": 30
+    },
+    {
+      "_id": {
+        "$oid": "604641f86f5dc52f947a569a"
+      },
+      "type": "COUPE FEMME",
+      "price": 80,
+      "duration": 45
+    },
+    {
+      "_id": {
+        "$oid": "604641f86f5dc52f947a569b"
+      },
+      "type": "COUPE FEMME AFRO",
+      "price": 80,
+      "duration": 60
+    },
+    {
+      "_id": {
+        "$oid": "604641f86f5dc52f947a569c"
+      },
+      "type": "COUPE HOMME AFRO",
+      "price": 70,
+      "duration": 60
+    },
+    {
+      "_id": {
+        "$oid": "604641f86f5dc52f947a569d"
+      },
+      "type": "COUPE FEMME PERMANENTE",
+      "price": 100,
+      "duration": 60
+    },
+    {
+      "_id": {
+        "$oid": "604641f86f5dc52f947a569e"
+      },
+      "type": "COUPE FEMME BALAYAGE",
+      "price": 110,
+      "duration": 60
+    }
+  ],
+  "packages": [
+    {
+      "_id": {
+        "$oid": "604641f86f5dc52f947a569f"
+      },
+      "type": "BIEN ETRE",
+      "price": 80,
+      "duration": 60,
+      "description": "Profitez d'un moment de détente : shampoing, massage de tête et pédicure"
+    },
+    {
+      "_id": {
+        "$oid": "604641f86f5dc52f947a56a0"
+      },
+      "type": "APERO COIF",
+      "price": 100,
+      "duration": 60,
+      "description": "Réserve avec tes amis et profite d'un apéro en te faisant coiffer avant ta soirée. Deux coktails inclus. "
+    }
+  ],
+  "schedule": [
+    {
+      "_id": {
+        "$oid": "604641f86f5dc52f947a56a1"
+      },
+      "dayOfTheWeek": "Tuesday",
+      "openingHours": 540,
+      "closingHours": 1140
+    },
+    {
+      "_id": {
+        "$oid": "604641f86f5dc52f947a56a2"
+      },
+      "dayOfTheWeek": "Wednesday",
+      "openingHours": 540,
+      "closingHours": 1140
+    },
+    {
+      "_id": {
+        "$oid": "604641f86f5dc52f947a56a3"
+      },
+      "dayOfTheWeek": "Thursday",
+      "openingHours": 540,
+      "closingHours": 1140
+    },
+    {
+      "_id": {
+        "$oid": "604641f86f5dc52f947a56a4"
+      },
+      "dayOfTheWeek": "Friday",
+      "openingHours": 540,
+      "closingHours": 1140
+    },
+    {
+      "_id": {
+        "$oid": "604641f86f5dc52f947a56a5"
+      },
+      "dayOfTheWeek": "Saturday",
+      "openingHours": 600,
+      "closingHours": 1200
+    }
+  ],
+  "atHome": false,
+  "rating": 5,
+  "latitude": 43.3027798,
+  "longitude": 5.3966337,
+  "__v": 0,
+  "priceFork": 3
+},{
+  "_id": {
+    "$oid": "6047719ee11be38487eb1db9"
+  },
+  "shopImages": [
+    "https://images.unsplash.com/photo-1601140524145-0c613d5da24d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80",
+    "https://images.unsplash.com/photo-1550005869-5fca7db35ddb?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1500&q=80",
+    "https://images.unsplash.com/photo-1598887296396-abdfe3a4c023?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NDl8fGhhaXJkcmVzc2VyfGVufDB8fDB8&auto=format&fit=crop&w=800&q=60",
+    "https://images.unsplash.com/photo-1589900274474-80331313d098?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mjl8fGhhaXJkcmVzc2VyfGVufDB8fDB8&auto=format&fit=crop&w=800&q=60"
+  ],
+  "shopFeatures": [
+    "paw",
+    "gamepad",
+    "leaf"
+  ],
+  "comments": [
+    {
+      "$oid": "604774ae691a6c85205ce9e3"
+    },
+    {
+      "$oid": "604774fa691a6c85205ce9e4"
+    },
+    {
+      "$oid": "6047753a691a6c85205ce9e5"
+    },
+    {
+      "$oid": "60477577691a6c85205ce9e6"
+    },
+    {
+      "$oid": "604775ad691a6c85205ce9e7"
+    }
+  ],
+  "shopEmployees": [
+    "Eleonore",
+    "Armand"
+  ],
+  "appointments": [
+    {
+      "$oid": "60477323691a6c85205ce9de"
+    },
+    {
+      "$oid": "60477373691a6c85205ce9df"
+    },
+    {
+      "$oid": "604773aa691a6c85205ce9e0"
+    },
+    {
+      "$oid": "604773e1691a6c85205ce9e1"
+    },
+    {
+      "$oid": "60477408691a6c85205ce9e2"
+    },
+    {
+      "$oid": "604786fb85601200ef984ac6"
+    },
+    {
+      "$oid": "6059e53f106f20c6c0dfca1d"
+    },
+    {
+      "$oid": "605b478864edbf9010126b8d"
+    }
+  ],
+  "shopName": "Levis Institut",
+  "shopAddress": "98 Rue des Dames, 75017 Paris, France",
+  "shopPhone": "0134567893",
+  "shopMail": "levis@gmail.com",
+  "shopDescription": "Dans ce charmant institut de beauté situé dans le 17ème arrondissement de Paris, vous tomberez sur une équipe chaleureuse et très compétente, prête à tout pour vous garantir un moment de bien être et de détente optimale. ",
+  "offers": [
+    {
+      "_id": {
+        "$oid": "6047719ee11be38487eb1dba"
+      },
+      "type": "COUPE HOMME",
+      "price": 70,
+      "duration": 30
+    },
+    {
+      "_id": {
+        "$oid": "6047719ee11be38487eb1dbb"
+      },
+      "type": "COUPE FEMME",
+      "price": 80,
+      "duration": 45
+    },
+    {
+      "_id": {
+        "$oid": "6047719ee11be38487eb1dbc"
+      },
+      "type": "COUPE FEMME AFRO",
+      "price": 80,
+      "duration": 60
+    },
+    {
+      "_id": {
+        "$oid": "6047719ee11be38487eb1dbd"
+      },
+      "type": "COUPE HOMME AFRO",
+      "price": 70,
+      "duration": 60
+    },
+    {
+      "_id": {
+        "$oid": "6047719ee11be38487eb1dbe"
+      },
+      "type": "COUPE FEMME PERMANENTE",
+      "price": 100,
+      "duration": 60
+    },
+    {
+      "_id": {
+        "$oid": "6047719ee11be38487eb1dbf"
+      },
+      "type": "COUPE FEMME BALAYAGE",
+      "price": 110,
+      "duration": 60
+    }
+  ],
+  "packages": [
+    {
+      "_id": {
+        "$oid": "6047719ee11be38487eb1dc0"
+      },
+      "type": "BIEN ETRE",
+      "price": 80,
+      "duration": 60,
+      "description": "Profitez d'un moment de détente : shampoing, massage de tête et pédicure"
+    },
+    {
+      "_id": {
+        "$oid": "6047719ee11be38487eb1dc1"
+      },
+      "type": "APERO COIF",
+      "price": 100,
+      "duration": 60,
+      "description": "Réserve avec tes amis et profite d'un apéro en te faisant coiffer avant ta soirée. Deux coktails inclus. "
+    }
+  ],
+  "schedule": [
+    {
+      "_id": {
+        "$oid": "6047719ee11be38487eb1dc2"
+      },
+      "dayOfTheWeek": "Tuesday",
+      "openingHours": 540,
+      "closingHours": 1140
+    },
+    {
+      "_id": {
+        "$oid": "6047719ee11be38487eb1dc3"
+      },
+      "dayOfTheWeek": "Wednesday",
+      "openingHours": 540,
+      "closingHours": 1140
+    },
+    {
+      "_id": {
+        "$oid": "6047719ee11be38487eb1dc4"
+      },
+      "dayOfTheWeek": "Thursday",
+      "openingHours": 540,
+      "closingHours": 1140
+    },
+    {
+      "_id": {
+        "$oid": "6047719ee11be38487eb1dc5"
+      },
+      "dayOfTheWeek": "Friday",
+      "openingHours": 540,
+      "closingHours": 1140
+    },
+    {
+      "_id": {
+        "$oid": "6047719ee11be38487eb1dc6"
+      },
+      "dayOfTheWeek": "Saturday",
+      "openingHours": 600,
+      "closingHours": 1200
+    }
+  ],
+  "atHome": false,
+  "rating": 4.8,
+  "latitude": 48.88288116455078,
+  "longitude": 2.3177108764648438,
+  "__v": 0,
+  "priceFork": 3
+}]
